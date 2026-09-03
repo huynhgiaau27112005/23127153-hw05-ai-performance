@@ -1,0 +1,9 @@
+a364360 Add README with public GitHub link
+212b3c6 Add HW05 JMeter agent skill and demo outline
+522e624 Add performance analysis docs and hardware evidence
+53506b3 Add JMeter results JTL HTML reports and summary
+9458ff6 Add optional k6 load script as backup
+fcf7b06 Add run orchestration and JTL summarize scripts
+a34c3f5 Add JMeter load stress spike endurance plans
+685086f Add JMX generator and user seed scripts
+88e6173 Add CSV user data for performance scenarios
