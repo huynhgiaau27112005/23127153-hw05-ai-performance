@@ -1,3 +1,5 @@
+﻿a9c5e30 docs: finalize critique, hardware refs, and GitHub links
+18088d5 Record repository history for submission
 a364360 Add README with public GitHub link
 212b3c6 Add HW05 JMeter agent skill and demo outline
 522e624 Add performance analysis docs and hardware evidence
