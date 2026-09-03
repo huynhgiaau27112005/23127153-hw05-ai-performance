@@ -1,0 +1,146 @@
+{
+  "Load": {
+    "samples": 450,
+    "errors": 0,
+    "error_pct": 0.0,
+    "avg_ms": 7.3,
+    "p95_ms": 17,
+    "throughput_rps": 5.23,
+    "duration_s": 86.1,
+    "by_label": {
+      "01 Login": {
+        "count": 90,
+        "avg_ms": 7.2,
+        "p95_ms": 17
+      },
+      "02 Products search": {
+        "count": 90,
+        "avg_ms": 5.2,
+        "p95_ms": 14
+      },
+      "03 Product detail": {
+        "count": 90,
+        "avg_ms": 5.5,
+        "p95_ms": 14
+      },
+      "04 Add cart": {
+        "count": 90,
+        "avg_ms": 4.7,
+        "p95_ms": 7
+      },
+      "05 Checkout": {
+        "count": 90,
+        "avg_ms": 14.0,
+        "p95_ms": 21
+      }
+    }
+  },
+  "Stress": {
+    "samples": 1400,
+    "errors": 0,
+    "error_pct": 0.0,
+    "avg_ms": 6.3,
+    "p95_ms": 16,
+    "throughput_rps": 14.4,
+    "duration_s": 97.2,
+    "by_label": {
+      "01 Login": {
+        "count": 280,
+        "avg_ms": 6.2,
+        "p95_ms": 10
+      },
+      "02 Products search": {
+        "count": 280,
+        "avg_ms": 3.6,
+        "p95_ms": 9
+      },
+      "03 Product detail": {
+        "count": 280,
+        "avg_ms": 3.7,
+        "p95_ms": 8
+      },
+      "04 Add cart": {
+        "count": 280,
+        "avg_ms": 4.1,
+        "p95_ms": 6
+      },
+      "05 Checkout": {
+        "count": 280,
+        "avg_ms": 14.1,
+        "p95_ms": 19
+      }
+    }
+  },
+  "Spike": {
+    "samples": 750,
+    "errors": 0,
+    "error_pct": 0.0,
+    "avg_ms": 7.1,
+    "p95_ms": 17,
+    "throughput_rps": 63.21,
+    "duration_s": 11.9,
+    "by_label": {
+      "01 Login": {
+        "count": 150,
+        "avg_ms": 7.3,
+        "p95_ms": 16
+      },
+      "02 Products search": {
+        "count": 150,
+        "avg_ms": 4.7,
+        "p95_ms": 13
+      },
+      "03 Product detail": {
+        "count": 150,
+        "avg_ms": 5.3,
+        "p95_ms": 16
+      },
+      "04 Add cart": {
+        "count": 150,
+        "avg_ms": 4.3,
+        "p95_ms": 7
+      },
+      "05 Checkout": {
+        "count": 150,
+        "avg_ms": 14.0,
+        "p95_ms": 20
+      }
+    }
+  },
+  "Endurance": {
+    "samples": 3917,
+    "errors": 0,
+    "error_pct": 0.0,
+    "avg_ms": 6.0,
+    "p95_ms": 16,
+    "throughput_rps": 6.55,
+    "duration_s": 598.3,
+    "by_label": {
+      "01 Login": {
+        "count": 788,
+        "avg_ms": 5.4,
+        "p95_ms": 8
+      },
+      "02 Products search": {
+        "count": 785,
+        "avg_ms": 3.2,
+        "p95_ms": 7
+      },
+      "03 Product detail": {
+        "count": 783,
+        "avg_ms": 3.2,
+        "p95_ms": 7
+      },
+      "04 Add cart": {
+        "count": 781,
+        "avg_ms": 3.8,
+        "p95_ms": 6
+      },
+      "05 Checkout": {
+        "count": 780,
+        "avg_ms": 14.3,
+        "p95_ms": 19
+      }
+    }
+  }
+}

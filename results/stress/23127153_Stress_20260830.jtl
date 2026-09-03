@@ -1,0 +1,1401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1788159638879,82,01 Login,200,OK,E2E Users 1-1,text,true,,640,287,1,1,http://127.0.0.1:3010/api/login,81,0,56
+1788159640028,19,02 Products search,200,OK,E2E Users 1-1,text,true,,267,347,2,2,http://127.0.0.1:3010/api/products?search=ao,19,0,0
+1788159640314,10,01 Login,200,OK,E2E Users 1-2,text,true,,640,287,2,2,http://127.0.0.1:3010/api/login,10,0,4
+1788159641051,5,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,339,3,3,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159641328,9,02 Products search,200,OK,E2E Users 1-2,text,true,,267,349,3,3,http://127.0.0.1:3010/api/products?search=giay,9,0,0
+1788159642017,25,01 Login,200,OK,E2E Users 1-3,text,true,,640,287,3,3,http://127.0.0.1:3010/api/login,25,0,3
+1788159642060,11,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,404,3,3,http://127.0.0.1:3010/api/cart,11,0,0
+1788159642340,8,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,339,3,3,http://127.0.0.1:3010/api/products/1,8,0,0
+1788159643045,4,02 Products search,200,OK,E2E Users 1-3,text,true,,267,348,4,4,http://127.0.0.1:3010/api/products?search=tui,4,0,0
+1788159643074,22,05 Checkout,200,OK,E2E Users 1-1,text,true,,314,424,4,4,http://127.0.0.1:3010/api/checkout,22,0,0
+1788159643350,7,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,404,4,4,http://127.0.0.1:3010/api/cart,7,0,0
+1788159643723,27,01 Login,200,OK,E2E Users 1-4,text,true,,640,287,4,4,http://127.0.0.1:3010/api/login,27,0,3
+1788159644052,4,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,339,4,4,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159644099,16,01 Login,200,OK,E2E Users 1-1,text,true,,640,407,4,4,http://127.0.0.1:3010/api/login,15,0,0
+1788159644360,24,05 Checkout,200,OK,E2E Users 1-2,text,true,,314,420,4,4,http://127.0.0.1:3010/api/checkout,24,0,0
+1788159644752,4,02 Products search,200,OK,E2E Users 1-4,text,true,,267,348,5,5,http://127.0.0.1:3010/api/products?search=dep,4,0,0
+1788159645057,7,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,404,5,5,http://127.0.0.1:3010/api/cart,7,0,0
+1788159645118,5,02 Products search,200,OK,E2E Users 1-1,text,true,,267,348,5,5,http://127.0.0.1:3010/api/products?search=non,5,0,0
+1788159645386,14,01 Login,200,OK,E2E Users 1-2,text,true,,640,407,5,5,http://127.0.0.1:3010/api/login,14,0,0
+1788159645446,22,01 Login,200,OK,E2E Users 1-5,text,true,,640,287,5,5,http://127.0.0.1:3010/api/login,22,0,3
+1788159645759,3,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,339,5,5,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159646067,17,05 Checkout,200,OK,E2E Users 1-3,text,true,,314,427,5,5,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159646125,5,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,339,5,5,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159646402,4,02 Products search,200,OK,E2E Users 1-2,text,true,,267,348,6,6,http://127.0.0.1:3010/api/products?search=vay,4,0,0
+1788159646472,17,02 Products search,200,OK,E2E Users 1-5,text,true,,267,349,6,6,http://127.0.0.1:3010/api/products?search=quan,17,0,0
+1788159646772,6,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,404,6,6,http://127.0.0.1:3010/api/cart,6,0,0
+1788159647087,6,01 Login,200,OK,E2E Users 1-3,text,true,,643,407,6,6,http://127.0.0.1:3010/api/login,6,0,0
+1788159647131,6,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,404,6,6,http://127.0.0.1:3010/api/cart,5,0,0
+1788159647147,10,01 Login,200,OK,E2E Users 1-6,text,true,,643,287,6,6,http://127.0.0.1:3010/api/login,9,0,3
+1788159647410,7,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,339,6,6,http://127.0.0.1:3010/api/products/1,7,0,0
+1788159647491,8,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,339,6,6,http://127.0.0.1:3010/api/products/1,8,0,0
+1788159647779,13,05 Checkout,200,OK,E2E Users 1-4,text,true,,314,425,6,6,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159648096,4,02 Products search,200,OK,E2E Users 1-3,text,true,,267,351,7,7,http://127.0.0.1:3010/api/products?search=balo,4,0,0
+1788159648138,15,05 Checkout,200,OK,E2E Users 1-1,text,true,,314,423,7,7,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159648160,2,02 Products search,200,OK,E2E Users 1-6,text,true,,267,351,7,7,http://127.0.0.1:3010/api/products?search=dong,2,0,0
+1788159648418,4,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,404,7,7,http://127.0.0.1:3010/api/cart,4,0,0
+1788159648502,3,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,404,7,7,http://127.0.0.1:3010/api/cart,3,0,0
+1788159648795,3,01 Login,200,OK,E2E Users 1-4,text,true,,643,407,7,7,http://127.0.0.1:3010/api/login,3,0,0
+1788159648870,4,01 Login,200,OK,E2E Users 1-7,text,true,,643,287,7,7,http://127.0.0.1:3010/api/login,4,0,1
+1788159649102,2,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,341,7,7,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159649155,3,01 Login,200,OK,E2E Users 1-1,text,true,,643,407,7,7,http://127.0.0.1:3010/api/login,3,0,0
+1788159649167,3,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,341,7,7,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159649425,11,05 Checkout,200,OK,E2E Users 1-2,text,true,,314,420,7,7,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159649508,7,05 Checkout,200,OK,E2E Users 1-5,text,true,,314,426,7,7,http://127.0.0.1:3010/api/checkout,7,0,0
+1788159649800,4,02 Products search,200,OK,E2E Users 1-4,text,true,,267,351,8,8,http://127.0.0.1:3010/api/products?search=kinh,4,0,0
+1788159649875,4,02 Products search,200,OK,E2E Users 1-7,text,true,,267,352,8,8,http://127.0.0.1:3010/api/products?search=watch,4,0,0
+1788159650106,5,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,406,8,8,http://127.0.0.1:3010/api/cart,5,0,0
+1788159650162,4,02 Products search,200,OK,E2E Users 1-1,text,true,,453,352,8,8,http://127.0.0.1:3010/api/products?search=phone,4,0,0
+1788159650171,5,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,406,8,8,http://127.0.0.1:3010/api/cart,5,0,0
+1788159650438,6,01 Login,200,OK,E2E Users 1-2,text,true,,643,407,8,8,http://127.0.0.1:3010/api/login,6,0,0
+1788159650517,6,01 Login,200,OK,E2E Users 1-5,text,true,,643,407,8,8,http://127.0.0.1:3010/api/login,6,0,0
+1788159650573,9,01 Login,200,OK,E2E Users 1-8,text,true,,643,287,8,8,http://127.0.0.1:3010/api/login,9,0,2
+1788159650807,2,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,341,8,8,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159650882,4,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,341,8,8,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159651113,15,05 Checkout,200,OK,E2E Users 1-3,text,true,,314,426,8,8,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159651169,5,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,341,8,8,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159651178,20,05 Checkout,200,OK,E2E Users 1-6,text,true,,314,433,8,8,http://127.0.0.1:3010/api/checkout,20,0,0
+1788159651447,5,02 Products search,200,OK,E2E Users 1-2,text,true,,267,353,9,9,http://127.0.0.1:3010/api/products?search=laptop,5,0,0
+1788159651525,5,02 Products search,200,OK,E2E Users 1-5,text,true,,267,353,9,9,http://127.0.0.1:3010/api/products?search=tablet,5,0,0
+1788159651584,4,02 Products search,200,OK,E2E Users 1-8,text,true,,267,351,9,9,http://127.0.0.1:3010/api/products?search=sach,4,0,0
+1788159651811,7,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,406,9,9,http://127.0.0.1:3010/api/cart,7,0,0
+1788159651887,8,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,406,9,9,http://127.0.0.1:3010/api/cart,8,0,0
+1788159652136,7,01 Login,200,OK,E2E Users 1-3,text,true,,640,409,9,9,http://127.0.0.1:3010/api/login,7,0,0
+1788159652176,8,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,406,9,9,http://127.0.0.1:3010/api/cart,8,0,0
+1788159652200,7,01 Login,200,OK,E2E Users 1-6,text,true,,640,409,9,9,http://127.0.0.1:3010/api/login,7,0,0
+1788159652293,9,01 Login,200,OK,E2E Users 1-9,text,true,,640,287,9,9,http://127.0.0.1:3010/api/login,9,0,2
+1788159652456,5,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,341,9,9,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159652533,3,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,341,9,9,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159652590,3,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,341,9,9,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159652821,15,05 Checkout,200,OK,E2E Users 1-4,text,true,,314,427,9,9,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159652897,19,05 Checkout,200,OK,E2E Users 1-7,text,true,,314,426,9,9,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159653145,2,02 Products search,200,OK,E2E Users 1-3,text,true,,267,347,10,10,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159653186,17,05 Checkout,200,OK,E2E Users 1-1,text,true,,314,428,10,10,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159653210,3,02 Products search,200,OK,E2E Users 1-6,text,true,,267,349,10,10,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159653305,3,02 Products search,200,OK,E2E Users 1-9,text,true,,267,348,10,10,http://127.0.0.1:3010/api/products?search=tui,3,0,0
+1788159653462,4,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,406,10,10,http://127.0.0.1:3010/api/cart,4,0,0
+1788159653538,3,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,406,10,10,http://127.0.0.1:3010/api/cart,3,0,0
+1788159653594,4,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,406,10,10,http://127.0.0.1:3010/api/cart,4,0,0
+1788159653836,5,01 Login,200,OK,E2E Users 1-4,text,true,,640,409,10,10,http://127.0.0.1:3010/api/login,5,0,0
+1788159653918,5,01 Login,200,OK,E2E Users 1-7,text,true,,640,409,10,10,http://127.0.0.1:3010/api/login,5,0,0
+1788159654001,6,01 Login,200,OK,E2E Users 1-10,text,true,,640,287,10,10,http://127.0.0.1:3010/api/login,6,0,2
+1788159654149,5,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,339,10,10,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159654204,5,01 Login,200,OK,E2E Users 1-1,text,true,,640,409,10,10,http://127.0.0.1:3010/api/login,5,0,0
+1788159654214,3,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,339,10,10,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159654308,2,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,339,10,10,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159654467,10,05 Checkout,200,OK,E2E Users 1-2,text,true,,314,442,10,10,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159654541,11,05 Checkout,200,OK,E2E Users 1-5,text,true,,314,425,10,10,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159654599,10,05 Checkout,200,OK,E2E Users 1-8,text,true,,314,428,10,10,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159654842,3,02 Products search,200,OK,E2E Users 1-4,text,true,,267,348,11,11,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159654925,2,02 Products search,200,OK,E2E Users 1-7,text,true,,267,348,11,11,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159655010,2,02 Products search,200,OK,E2E Users 1-10,text,true,,267,348,11,11,http://127.0.0.1:3010/api/products?search=vay,2,0,0
+1788159655155,4,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,404,11,11,http://127.0.0.1:3010/api/cart,4,0,0
+1788159655212,3,02 Products search,200,OK,E2E Users 1-1,text,true,,267,349,11,11,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159655218,5,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,404,11,11,http://127.0.0.1:3010/api/cart,5,0,0
+1788159655311,3,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,404,11,11,http://127.0.0.1:3010/api/cart,3,0,0
+1788159655479,5,01 Login,200,OK,E2E Users 1-2,text,true,,643,409,11,11,http://127.0.0.1:3010/api/login,5,0,0
+1788159655554,5,01 Login,200,OK,E2E Users 1-5,text,true,,643,409,11,11,http://127.0.0.1:3010/api/login,5,0,0
+1788159655611,5,01 Login,200,OK,E2E Users 1-8,text,true,,643,409,11,11,http://127.0.0.1:3010/api/login,5,0,0
+1788159655711,8,01 Login,200,OK,E2E Users 1-11,text,true,,643,287,11,11,http://127.0.0.1:3010/api/login,8,0,2
+1788159655849,3,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159655929,3,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159656014,4,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159656161,15,05 Checkout,200,OK,E2E Users 1-3,text,true,,314,424,11,11,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159656218,4,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159656225,14,05 Checkout,200,OK,E2E Users 1-6,text,true,,314,420,11,11,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159656315,9,05 Checkout,200,OK,E2E Users 1-9,text,true,,314,427,11,11,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159656486,5,02 Products search,200,OK,E2E Users 1-2,text,true,,267,351,12,12,http://127.0.0.1:3010/api/products?search=balo,5,0,0
+1788159656562,4,02 Products search,200,OK,E2E Users 1-5,text,true,,267,351,12,12,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159656618,4,02 Products search,200,OK,E2E Users 1-8,text,true,,267,351,12,12,http://127.0.0.1:3010/api/products?search=kinh,4,0,0
+1788159656722,4,02 Products search,200,OK,E2E Users 1-11,text,true,,267,352,12,12,http://127.0.0.1:3010/api/products?search=watch,4,0,0
+1788159656854,4,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,404,12,12,http://127.0.0.1:3010/api/cart,4,0,0
+1788159656933,6,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,404,12,12,http://127.0.0.1:3010/api/cart,6,0,0
+1788159657020,5,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,404,12,12,http://127.0.0.1:3010/api/cart,5,0,0
+1788159657177,6,01 Login,200,OK,E2E Users 1-3,text,true,,643,407,12,12,http://127.0.0.1:3010/api/login,6,0,0
+1788159657223,5,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,404,12,12,http://127.0.0.1:3010/api/cart,5,0,0
+1788159657241,5,01 Login,200,OK,E2E Users 1-6,text,true,,643,407,12,12,http://127.0.0.1:3010/api/login,5,0,0
+1788159657325,7,01 Login,200,OK,E2E Users 1-9,text,true,,643,407,12,12,http://127.0.0.1:3010/api/login,7,0,0
+1788159657420,5,01 Login,200,OK,E2E Users 1-12,text,true,,643,287,12,12,http://127.0.0.1:3010/api/login,5,0,1
+1788159657493,4,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,341,12,12,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159657567,4,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,341,12,12,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159657624,2,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,341,12,12,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159657729,2,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,341,12,12,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159657859,14,05 Checkout,200,OK,E2E Users 1-4,text,true,,314,425,12,12,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159657940,11,05 Checkout,200,OK,E2E Users 1-7,text,true,,314,423,12,12,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159658027,16,05 Checkout,200,OK,E2E Users 1-10,text,true,,314,420,12,12,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159658185,3,02 Products search,200,OK,E2E Users 1-3,text,true,,453,352,13,13,http://127.0.0.1:3010/api/products?search=phone,3,0,0
+1788159658231,17,05 Checkout,200,OK,E2E Users 1-1,text,true,,314,426,13,13,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159658249,6,02 Products search,200,OK,E2E Users 1-6,text,true,,267,353,13,13,http://127.0.0.1:3010/api/products?search=laptop,6,0,0
+1788159658334,2,02 Products search,200,OK,E2E Users 1-9,text,true,,267,353,13,13,http://127.0.0.1:3010/api/products?search=tablet,2,0,0
+1788159658426,4,02 Products search,200,OK,E2E Users 1-12,text,true,,267,351,13,13,http://127.0.0.1:3010/api/products?search=sach,4,0,0
+1788159658498,4,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,4,0,0
+1788159658572,5,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,5,0,0
+1788159658627,6,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,5,0,0
+1788159658732,4,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,4,0,0
+1788159658876,5,01 Login,200,OK,E2E Users 1-4,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,5,0,0
+1788159658954,8,01 Login,200,OK,E2E Users 1-7,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,8,0,0
+1788159659045,7,01 Login,200,OK,E2E Users 1-10,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,7,0,0
+1788159659143,7,01 Login,200,OK,E2E Users 1-13,text,true,,640,287,13,13,http://127.0.0.1:3010/api/login,7,0,2
+1788159659192,4,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159659250,3,01 Login,200,OK,E2E Users 1-1,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,3,0,0
+1788159659261,1,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159659337,2,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159659432,2,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159659504,15,05 Checkout,200,OK,E2E Users 1-2,text,true,,314,426,13,13,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159659578,8,05 Checkout,200,OK,E2E Users 1-5,text,true,,314,433,13,13,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159659634,10,05 Checkout,200,OK,E2E Users 1-8,text,true,,314,427,13,13,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159659739,13,05 Checkout,200,OK,E2E Users 1-11,text,true,,314,426,13,13,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159659882,2,02 Products search,200,OK,E2E Users 1-4,text,true,,267,347,14,14,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159659963,3,02 Products search,200,OK,E2E Users 1-7,text,true,,267,349,14,14,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159660054,4,02 Products search,200,OK,E2E Users 1-10,text,true,,267,348,14,14,http://127.0.0.1:3010/api/products?search=tui,4,0,0
+1788159660153,4,02 Products search,200,OK,E2E Users 1-13,text,true,,267,348,14,14,http://127.0.0.1:3010/api/products?search=dep,4,0,0
+1788159660199,2,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,406,14,14,http://127.0.0.1:3010/api/cart,2,0,0
+1788159660255,3,02 Products search,200,OK,E2E Users 1-1,text,true,,267,348,14,14,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159660264,4,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,406,14,14,http://127.0.0.1:3010/api/cart,4,0,0
+1788159660340,4,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,406,14,14,http://127.0.0.1:3010/api/cart,4,0,0
+1788159660436,3,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,406,14,14,http://127.0.0.1:3010/api/cart,3,0,0
+1788159660521,7,01 Login,200,OK,E2E Users 1-2,text,true,,640,409,14,14,http://127.0.0.1:3010/api/login,7,0,0
+1788159660588,6,01 Login,200,OK,E2E Users 1-5,text,true,,640,409,14,14,http://127.0.0.1:3010/api/login,5,0,0
+1788159660646,5,01 Login,200,OK,E2E Users 1-8,text,true,,643,409,14,14,http://127.0.0.1:3010/api/login,5,0,0
+1788159660753,6,01 Login,200,OK,E2E Users 1-11,text,true,,643,409,14,14,http://127.0.0.1:3010/api/login,5,0,0
+1788159660854,6,01 Login,200,OK,E2E Users 1-14,text,true,,643,287,14,14,http://127.0.0.1:3010/api/login,5,0,2
+1788159660886,2,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159660968,3,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159661062,4,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159661159,3,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159661203,15,05 Checkout,200,OK,E2E Users 1-3,text,true,,314,428,14,14,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159661259,4,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159661269,15,05 Checkout,200,OK,E2E Users 1-6,text,true,,314,442,14,14,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159661346,18,05 Checkout,200,OK,E2E Users 1-9,text,true,,314,425,14,14,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159661441,17,05 Checkout,200,OK,E2E Users 1-12,text,true,,314,428,14,14,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159661531,3,02 Products search,200,OK,E2E Users 1-2,text,true,,267,348,14,14,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159661595,3,02 Products search,200,OK,E2E Users 1-5,text,true,,267,349,15,15,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159661653,3,02 Products search,200,OK,E2E Users 1-8,text,true,,267,351,15,15,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159661762,5,02 Products search,200,OK,E2E Users 1-11,text,true,,267,351,15,15,http://127.0.0.1:3010/api/products?search=dong,4,0,0
+1788159661861,2,02 Products search,200,OK,E2E Users 1-14,text,true,,267,351,15,15,http://127.0.0.1:3010/api/products?search=kinh,2,0,0
+1788159661890,3,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,404,15,15,http://127.0.0.1:3010/api/cart,3,0,0
+1788159661972,4,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,404,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159662068,4,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,404,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159662165,4,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,404,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159662220,6,01 Login,200,OK,E2E Users 1-3,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,6,0,0
+1788159662265,4,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,404,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159662285,7,01 Login,200,OK,E2E Users 1-6,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,7,0,0
+1788159662367,5,01 Login,200,OK,E2E Users 1-9,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,5,0,0
+1788159662461,3,01 Login,200,OK,E2E Users 1-12,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,3,0,0
+1788159662535,3,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,339,15,15,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159662566,8,01 Login,200,OK,E2E Users 1-15,text,true,,643,287,15,15,http://127.0.0.1:3010/api/login,8,0,2
+1788159662601,3,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,339,15,15,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159662658,3,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,341,15,15,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159662768,5,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,341,15,15,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159662865,3,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,341,15,15,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159662894,9,05 Checkout,200,OK,E2E Users 1-4,text,true,,314,424,15,15,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159662978,14,05 Checkout,200,OK,E2E Users 1-7,text,true,,314,420,15,15,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159663073,16,05 Checkout,200,OK,E2E Users 1-10,text,true,,314,427,15,15,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159663171,12,05 Checkout,200,OK,E2E Users 1-13,text,true,,314,425,15,15,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159663227,3,02 Products search,200,OK,E2E Users 1-3,text,true,,267,352,15,15,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159663270,13,05 Checkout,200,OK,E2E Users 1-1,text,true,,314,423,16,16,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159663293,2,02 Products search,200,OK,E2E Users 1-6,text,true,,453,352,16,16,http://127.0.0.1:3010/api/products?search=phone,2,0,0
+1788159663373,3,02 Products search,200,OK,E2E Users 1-9,text,true,,267,353,16,16,http://127.0.0.1:3010/api/products?search=laptop,3,0,0
+1788159663466,3,02 Products search,200,OK,E2E Users 1-12,text,true,,267,353,16,16,http://127.0.0.1:3010/api/products?search=tablet,3,0,0
+1788159663541,5,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,404,16,16,http://127.0.0.1:3010/api/cart,5,0,0
+1788159663577,1,02 Products search,200,OK,E2E Users 1-15,text,true,,267,351,16,16,http://127.0.0.1:3010/api/products?search=sach,1,0,0
+1788159663605,3,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,404,16,16,http://127.0.0.1:3010/api/cart,3,0,0
+1788159663662,4,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,406,16,16,http://127.0.0.1:3010/api/cart,4,0,0
+1788159663775,4,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,406,16,16,http://127.0.0.1:3010/api/cart,4,0,0
+1788159663869,6,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,406,16,16,http://127.0.0.1:3010/api/cart,6,0,0
+1788159663905,8,01 Login,200,OK,E2E Users 1-4,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,8,0,0
+1788159663994,6,01 Login,200,OK,E2E Users 1-7,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,6,0,0
+1788159664093,5,01 Login,200,OK,E2E Users 1-10,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,5,0,0
+1788159664185,5,01 Login,200,OK,E2E Users 1-13,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,5,0,0
+1788159664233,2,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159664277,8,01 Login,200,OK,E2E Users 1-16,text,true,,640,287,16,16,http://127.0.0.1:3010/api/login,8,0,2
+1788159664285,6,01 Login,200,OK,E2E Users 1-1,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,6,0,0
+1788159664300,3,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159664379,4,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159664472,4,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159664548,18,05 Checkout,200,OK,E2E Users 1-2,text,true,,314,420,16,16,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159664580,5,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159664610,9,05 Checkout,200,OK,E2E Users 1-5,text,true,,314,426,16,16,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159664670,18,05 Checkout,200,OK,E2E Users 1-8,text,true,,314,426,16,16,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159664780,18,05 Checkout,200,OK,E2E Users 1-11,text,true,,314,433,16,16,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159664877,14,05 Checkout,200,OK,E2E Users 1-14,text,true,,314,427,16,16,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159664915,2,02 Products search,200,OK,E2E Users 1-4,text,true,,267,347,16,16,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159665002,4,02 Products search,200,OK,E2E Users 1-7,text,true,,267,349,17,17,http://127.0.0.1:3010/api/products?search=giay,4,0,0
+1788159665100,3,02 Products search,200,OK,E2E Users 1-10,text,true,,267,348,17,17,http://127.0.0.1:3010/api/products?search=tui,3,0,0
+1788159665192,4,02 Products search,200,OK,E2E Users 1-13,text,true,,267,348,17,17,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159665237,3,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,3,0,0
+1788159665288,4,02 Products search,200,OK,E2E Users 1-16,text,true,,267,348,17,17,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159665292,3,02 Products search,200,OK,E2E Users 1-1,text,true,,267,348,17,17,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159665305,5,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,5,0,0
+1788159665384,4,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,4,0,0
+1788159665478,4,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,4,0,0
+1788159665569,6,01 Login,200,OK,E2E Users 1-2,text,true,,640,407,17,17,http://127.0.0.1:3010/api/login,6,0,0
+1788159665587,5,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,5,0,0
+1788159665621,6,01 Login,200,OK,E2E Users 1-5,text,true,,643,407,17,17,http://127.0.0.1:3010/api/login,6,0,0
+1788159665690,5,01 Login,200,OK,E2E Users 1-8,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,5,0,0
+1788159665799,7,01 Login,200,OK,E2E Users 1-11,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,7,0,0
+1788159665893,4,01 Login,200,OK,E2E Users 1-14,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,4,0,0
+1788159665918,4,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159665988,9,01 Login,200,OK,E2E Users 1-17,text,true,,643,287,17,17,http://127.0.0.1:3010/api/login,9,0,3
+1788159666007,4,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159666106,3,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159666197,4,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159666243,10,05 Checkout,200,OK,E2E Users 1-3,text,true,,314,426,17,17,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159666295,3,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159666297,3,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159666311,13,05 Checkout,200,OK,E2E Users 1-6,text,true,,314,428,17,17,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159666390,15,05 Checkout,200,OK,E2E Users 1-9,text,true,,314,442,17,17,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159666483,17,05 Checkout,200,OK,E2E Users 1-12,text,true,,314,425,17,17,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159666577,4,02 Products search,200,OK,E2E Users 1-2,text,true,,267,349,17,17,http://127.0.0.1:3010/api/products?search=quan,4,0,0
+1788159666594,17,05 Checkout,200,OK,E2E Users 1-15,text,true,,314,428,17,17,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159666629,3,02 Products search,200,OK,E2E Users 1-5,text,true,,267,351,17,17,http://127.0.0.1:3010/api/products?search=balo,2,0,0
+1788159666698,3,02 Products search,200,OK,E2E Users 1-8,text,true,,267,351,18,18,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159666808,3,02 Products search,200,OK,E2E Users 1-11,text,true,,267,351,18,18,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159666899,3,02 Products search,200,OK,E2E Users 1-14,text,true,,267,352,18,18,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159666925,4,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,404,18,18,http://127.0.0.1:3010/api/cart,4,0,0
+1788159667002,4,02 Products search,200,OK,E2E Users 1-17,text,true,,453,352,18,18,http://127.0.0.1:3010/api/products?search=phone,4,0,0
+1788159667013,4,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,404,18,18,http://127.0.0.1:3010/api/cart,4,0,0
+1788159667112,7,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,404,18,18,http://127.0.0.1:3010/api/cart,6,0,0
+1788159667203,4,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,404,18,18,http://127.0.0.1:3010/api/cart,4,0,0
+1788159667255,6,01 Login,200,OK,E2E Users 1-3,text,true,,643,409,18,18,http://127.0.0.1:3010/api/login,6,0,0
+1788159667298,5,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,404,18,18,http://127.0.0.1:3010/api/cart,5,0,0
+1788159667301,6,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,404,18,18,http://127.0.0.1:3010/api/cart,6,0,0
+1788159667325,5,01 Login,200,OK,E2E Users 1-6,text,true,,643,409,18,18,http://127.0.0.1:3010/api/login,5,0,0
+1788159667406,5,01 Login,200,OK,E2E Users 1-9,text,true,,643,409,18,18,http://127.0.0.1:3010/api/login,5,0,0
+1788159667503,9,01 Login,200,OK,E2E Users 1-12,text,true,,640,409,18,18,http://127.0.0.1:3010/api/login,9,0,0
+1788159667582,3,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,339,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159667614,5,01 Login,200,OK,E2E Users 1-15,text,true,,640,409,18,18,http://127.0.0.1:3010/api/login,5,0,0
+1788159667633,3,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159667696,8,01 Login,200,OK,E2E Users 1-18,text,true,,640,287,18,18,http://127.0.0.1:3010/api/login,8,0,3
+1788159667702,4,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159667812,4,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159667903,3,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159667930,19,05 Checkout,200,OK,E2E Users 1-4,text,true,,314,424,18,18,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159668008,3,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159668018,15,05 Checkout,200,OK,E2E Users 1-7,text,true,,314,420,18,18,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159668120,13,05 Checkout,200,OK,E2E Users 1-10,text,true,,314,427,18,18,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159668210,9,05 Checkout,200,OK,E2E Users 1-13,text,true,,314,425,18,18,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159668263,2,02 Products search,200,OK,E2E Users 1-3,text,true,,267,353,18,18,http://127.0.0.1:3010/api/products?search=laptop,2,0,0
+1788159668304,9,05 Checkout,200,OK,E2E Users 1-16,text,true,,314,423,18,18,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159668308,11,05 Checkout,200,OK,E2E Users 1-1,text,true,,314,420,18,18,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159668332,2,02 Products search,200,OK,E2E Users 1-6,text,true,,267,353,18,18,http://127.0.0.1:3010/api/products?search=tablet,2,0,0
+1788159668413,4,02 Products search,200,OK,E2E Users 1-9,text,true,,267,351,19,19,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159668514,3,02 Products search,200,OK,E2E Users 1-12,text,true,,267,347,19,19,http://127.0.0.1:3010/api/products?search=ao,3,0,0
+1788159668587,2,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,2,0,0
+1788159668622,2,02 Products search,200,OK,E2E Users 1-15,text,true,,267,349,19,19,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159668637,3,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,406,19,19,http://127.0.0.1:3010/api/cart,3,0,0
+1788159668707,3,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,406,19,19,http://127.0.0.1:3010/api/cart,3,0,0
+1788159668706,5,02 Products search,200,OK,E2E Users 1-18,text,true,,267,348,19,19,http://127.0.0.1:3010/api/products?search=tui,5,0,0
+1788159668817,4,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,406,19,19,http://127.0.0.1:3010/api/cart,4,0,0
+1788159668906,5,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,406,19,19,http://127.0.0.1:3010/api/cart,5,0,0
+1788159668949,3,01 Login,200,OK,E2E Users 1-4,text,true,,640,407,19,19,http://127.0.0.1:3010/api/login,3,0,0
+1788159669011,5,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,406,19,19,http://127.0.0.1:3010/api/cart,5,0,0
+1788159669033,6,01 Login,200,OK,E2E Users 1-7,text,true,,640,407,19,19,http://127.0.0.1:3010/api/login,6,0,0
+1788159669133,5,01 Login,200,OK,E2E Users 1-10,text,true,,640,407,19,19,http://127.0.0.1:3010/api/login,5,0,0
+1788159669220,3,01 Login,200,OK,E2E Users 1-13,text,true,,640,407,19,19,http://127.0.0.1:3010/api/login,3,0,0
+1788159669265,2,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159669314,5,01 Login,200,OK,E2E Users 1-16,text,true,,643,407,19,19,http://127.0.0.1:3010/api/login,5,0,0
+1788159669320,3,01 Login,200,OK,E2E Users 1-1,text,true,,643,407,19,19,http://127.0.0.1:3010/api/login,3,0,0
+1788159669335,2,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159669406,7,01 Login,200,OK,E2E Users 1-19,text,true,,643,287,19,19,http://127.0.0.1:3010/api/login,7,0,2
+1788159669417,3,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159669519,3,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,339,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159669591,8,05 Checkout,200,OK,E2E Users 1-2,text,true,,314,426,19,19,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159669624,3,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,339,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159669640,9,05 Checkout,200,OK,E2E Users 1-5,text,true,,314,426,19,19,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159669711,9,05 Checkout,200,OK,E2E Users 1-8,text,true,,314,433,19,19,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159669711,9,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,339,19,19,http://127.0.0.1:3010/api/products/1,9,0,0
+1788159669822,16,05 Checkout,200,OK,E2E Users 1-11,text,true,,314,427,19,19,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159669912,16,05 Checkout,200,OK,E2E Users 1-14,text,true,,314,426,19,19,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159669953,2,02 Products search,200,OK,E2E Users 1-4,text,true,,267,348,19,19,http://127.0.0.1:3010/api/products?search=dep,2,0,0
+1788159670018,14,05 Checkout,200,OK,E2E Users 1-17,text,true,,314,428,19,19,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159670040,2,02 Products search,200,OK,E2E Users 1-7,text,true,,267,348,19,19,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159670139,5,02 Products search,200,OK,E2E Users 1-10,text,true,,267,348,20,20,http://127.0.0.1:3010/api/products?search=vay,5,0,0
+1788159670224,3,02 Products search,200,OK,E2E Users 1-13,text,true,,267,349,20,20,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159670269,6,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,6,0,0
+1788159670320,3,02 Products search,200,OK,E2E Users 1-16,text,true,,267,351,20,20,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159670324,3,02 Products search,200,OK,E2E Users 1-1,text,true,,267,351,20,20,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159670338,4,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159670414,3,02 Products search,200,OK,E2E Users 1-19,text,true,,267,351,20,20,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159670420,4,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159670523,4,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,404,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159670601,7,01 Login,200,OK,E2E Users 1-2,text,true,,643,407,20,20,http://127.0.0.1:3010/api/login,7,0,0
+1788159670628,4,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,404,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159670650,4,01 Login,200,OK,E2E Users 1-5,text,true,,643,409,20,20,http://127.0.0.1:3010/api/login,4,0,0
+1788159670721,2,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,404,20,20,http://127.0.0.1:3010/api/cart,2,0,0
+1788159670721,6,01 Login,200,OK,E2E Users 1-8,text,true,,643,409,20,20,http://127.0.0.1:3010/api/login,6,0,0
+1788159670839,5,01 Login,200,OK,E2E Users 1-11,text,true,,643,409,20,20,http://127.0.0.1:3010/api/login,5,0,0
+1788159670929,4,01 Login,200,OK,E2E Users 1-14,text,true,,643,409,20,20,http://127.0.0.1:3010/api/login,4,0,0
+1788159670958,3,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159671034,6,01 Login,200,OK,E2E Users 1-17,text,true,,640,409,20,20,http://127.0.0.1:3010/api/login,6,0,0
+1788159671045,4,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159671126,6,01 Login,200,OK,E2E Users 1-20,text,true,,640,287,20,20,http://127.0.0.1:3010/api/login,6,0,2
+1788159671146,4,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159671228,4,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159671276,15,05 Checkout,200,OK,E2E Users 1-3,text,true,,314,442,20,20,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159671325,2,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,341,20,20,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159671329,1,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,341,20,20,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159671344,15,05 Checkout,200,OK,E2E Users 1-6,text,true,,315,425,20,20,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159671419,3,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,341,20,20,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159671425,12,05 Checkout,200,OK,E2E Users 1-9,text,true,,315,428,20,20,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159671529,10,05 Checkout,200,OK,E2E Users 1-12,text,true,,315,424,20,20,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159671609,4,02 Products search,200,OK,E2E Users 1-2,text,true,,267,352,20,20,http://127.0.0.1:3010/api/products?search=watch,4,0,0
+1788159671633,15,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,420,20,20,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159671657,4,02 Products search,200,OK,E2E Users 1-5,text,true,,453,352,20,20,http://127.0.0.1:3010/api/products?search=phone,4,0,0
+1788159671724,11,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,427,20,20,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159671728,8,02 Products search,200,OK,E2E Users 1-8,text,true,,267,353,20,20,http://127.0.0.1:3010/api/products?search=laptop,8,0,0
+1788159671847,4,02 Products search,200,OK,E2E Users 1-11,text,true,,267,353,21,21,http://127.0.0.1:3010/api/products?search=tablet,4,0,0
+1788159671935,2,02 Products search,200,OK,E2E Users 1-14,text,true,,267,351,21,21,http://127.0.0.1:3010/api/products?search=sach,2,0,0
+1788159671962,5,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,5,0,0
+1788159672042,4,02 Products search,200,OK,E2E Users 1-17,text,true,,267,347,21,21,http://127.0.0.1:3010/api/products?search=ao,4,0,0
+1788159672050,4,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,4,0,0
+1788159672133,3,02 Products search,200,OK,E2E Users 1-20,text,true,,267,349,21,21,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159672152,5,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,5,0,0
+1788159672233,4,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,4,0,0
+1788159672292,7,01 Login,200,OK,E2E Users 1-3,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,6,0,0
+1788159672329,6,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,406,21,21,http://127.0.0.1:3010/api/cart,6,0,0
+1788159672331,7,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,406,21,21,http://127.0.0.1:3010/api/cart,7,0,0
+1788159672360,8,01 Login,200,OK,E2E Users 1-6,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,8,0,0
+1788159672425,5,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,406,21,21,http://127.0.0.1:3010/api/cart,5,0,0
+1788159672439,4,01 Login,200,OK,E2E Users 1-9,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,4,0,0
+1788159672539,3,01 Login,200,OK,E2E Users 1-12,text,true,,640,407,21,21,http://127.0.0.1:3010/api/login,3,0,0
+1788159672614,3,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159672651,5,01 Login,200,OK,E2E Users 1-15,text,true,,640,407,21,21,http://127.0.0.1:3010/api/login,5,0,0
+1788159672662,4,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159672736,3,01 Login,200,OK,E2E Users 1-18,text,true,,643,407,21,21,http://127.0.0.1:3010/api/login,3,0,0
+1788159672737,3,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159672838,4,01 Login,200,OK,E2E Users 1-21,text,true,,643,287,21,21,http://127.0.0.1:3010/api/login,4,0,1
+1788159672852,2,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159672938,2,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159672969,9,05 Checkout,200,OK,E2E Users 1-4,text,true,,315,425,21,21,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159673049,2,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,339,21,21,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159673055,9,05 Checkout,200,OK,E2E Users 1-7,text,true,,315,423,21,21,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159673138,1,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,339,21,21,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159673159,12,05 Checkout,200,OK,E2E Users 1-10,text,true,,315,420,21,21,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159673238,11,05 Checkout,200,OK,E2E Users 1-13,text,true,,315,426,21,21,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159673301,2,02 Products search,200,OK,E2E Users 1-3,text,true,,267,348,21,21,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159673336,17,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,426,21,21,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159673339,23,05 Checkout,200,OK,E2E Users 1-1,text,true,,315,433,21,21,http://127.0.0.1:3010/api/checkout,23,0,0
+1788159673370,3,02 Products search,200,OK,E2E Users 1-6,text,true,,267,348,21,21,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159673431,15,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,427,21,21,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159673445,4,02 Products search,200,OK,E2E Users 1-9,text,true,,267,348,21,21,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159673543,2,02 Products search,200,OK,E2E Users 1-12,text,true,,267,348,21,21,http://127.0.0.1:3010/api/products?search=vay,2,0,0
+1788159673619,4,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,4,0,0
+1788159673657,4,02 Products search,200,OK,E2E Users 1-15,text,true,,267,349,22,22,http://127.0.0.1:3010/api/products?search=quan,4,0,0
+1788159673667,6,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,6,0,0
+1788159673741,5,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,5,0,0
+1788159673740,7,02 Products search,200,OK,E2E Users 1-18,text,true,,267,351,22,22,http://127.0.0.1:3010/api/products?search=balo,7,0,0
+1788159673844,3,02 Products search,200,OK,E2E Users 1-21,text,true,,267,351,22,22,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159673856,5,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,5,0,0
+1788159673943,5,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,5,0,0
+1788159673980,3,01 Login,200,OK,E2E Users 1-4,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,3,0,0
+1788159674053,2,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,404,22,22,http://127.0.0.1:3010/api/cart,2,0,0
+1788159674066,2,01 Login,200,OK,E2E Users 1-7,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,2,0,0
+1788159674141,5,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,404,22,22,http://127.0.0.1:3010/api/cart,4,0,0
+1788159674173,5,01 Login,200,OK,E2E Users 1-10,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,5,0,0
+1788159674252,9,01 Login,200,OK,E2E Users 1-13,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,9,0,0
+1788159674307,3,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159674356,4,01 Login,200,OK,E2E Users 1-16,text,true,,643,409,22,22,http://127.0.0.1:3010/api/login,4,0,0
+1788159674364,5,01 Login,200,OK,E2E Users 1-1,text,true,,643,409,22,22,http://127.0.0.1:3010/api/login,5,0,0
+1788159674376,2,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159674450,5,01 Login,200,OK,E2E Users 1-19,text,true,,640,409,22,22,http://127.0.0.1:3010/api/login,5,0,0
+1788159674452,5,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159674547,1,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159674552,3,01 Login,200,OK,E2E Users 1-22,text,true,,640,287,22,22,http://127.0.0.1:3010/api/login,3,0,0
+1788159674625,15,05 Checkout,200,OK,E2E Users 1-2,text,true,,315,426,22,22,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159674665,3,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159674675,14,05 Checkout,200,OK,E2E Users 1-5,text,true,,315,428,22,22,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159674749,3,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,341,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159674749,9,05 Checkout,200,OK,E2E Users 1-8,text,true,,315,442,22,22,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159674849,1,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,341,22,22,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159674862,13,05 Checkout,200,OK,E2E Users 1-11,text,true,,315,425,22,22,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159674949,16,05 Checkout,200,OK,E2E Users 1-14,text,true,,315,428,22,22,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159674984,3,02 Products search,200,OK,E2E Users 1-4,text,true,,267,351,22,22,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159675055,13,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,424,22,22,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159675069,2,02 Products search,200,OK,E2E Users 1-7,text,true,,267,352,22,22,http://127.0.0.1:3010/api/products?search=watch,2,0,0
+1788159675147,8,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,420,22,22,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159675179,2,02 Products search,200,OK,E2E Users 1-10,text,true,,453,352,22,22,http://127.0.0.1:3010/api/products?search=phone,2,0,0
+1788159675262,3,02 Products search,200,OK,E2E Users 1-13,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=laptop,3,0,0
+1788159675311,4,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159675361,3,02 Products search,200,OK,E2E Users 1-16,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=tablet,3,0,0
+1788159675370,3,02 Products search,200,OK,E2E Users 1-1,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159675379,2,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,2,0,0
+1788159675456,2,02 Products search,200,OK,E2E Users 1-19,text,true,,267,347,23,23,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159675459,2,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,2,0,0
+1788159675550,2,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,2,0,0
+1788159675557,1,02 Products search,200,OK,E2E Users 1-22,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=giay,1,0,0
+1788159675642,3,01 Login,200,OK,E2E Users 1-2,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,3,0,0
+1788159675670,2,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,2,0,0
+1788159675690,4,01 Login,200,OK,E2E Users 1-5,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,4,0,0
+1788159675753,5,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,5,0,0
+1788159675760,5,01 Login,200,OK,E2E Users 1-8,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,5,0,0
+1788159675852,3,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,3,0,0
+1788159675877,3,01 Login,200,OK,E2E Users 1-11,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,3,0,0
+1788159675967,2,01 Login,200,OK,E2E Users 1-14,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,2,0,0
+1788159675989,2,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159676069,6,01 Login,200,OK,E2E Users 1-17,text,true,,643,407,23,23,http://127.0.0.1:3010/api/login,6,0,0
+1788159676072,5,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159676156,6,01 Login,200,OK,E2E Users 1-20,text,true,,643,407,23,23,http://127.0.0.1:3010/api/login,6,0,0
+1788159676183,2,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159676261,11,01 Login,200,OK,E2E Users 1-23,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,11,0,2
+1788159676267,6,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,6,0,0
+1788159676315,12,05 Checkout,200,OK,E2E Users 1-3,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159676367,2,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159676374,2,03 Product detail,200,OK,E2E Users 1-1,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159676383,9,05 Checkout,200,OK,E2E Users 1-6,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159676460,2,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159676463,10,05 Checkout,200,OK,E2E Users 1-9,text,true,,315,423,23,23,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159676553,14,05 Checkout,200,OK,E2E Users 1-12,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159676559,9,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,9,0,0
+1788159676647,2,02 Products search,200,OK,E2E Users 1-2,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159676673,16,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159676696,3,02 Products search,200,OK,E2E Users 1-5,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159676760,15,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159676766,11,02 Products search,200,OK,E2E Users 1-8,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=non,11,0,0
+1788159676856,15,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159676883,3,02 Products search,200,OK,E2E Users 1-11,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159676971,2,02 Products search,200,OK,E2E Users 1-14,text,true,,267,349,24,24,http://127.0.0.1:3010/api/products?search=quan,2,0,0
+1788159676993,2,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,2,0,0
+1788159677076,3,02 Products search,200,OK,E2E Users 1-17,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=balo,2,0,0
+1788159677079,1,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,1,0,0
+1788159677164,2,02 Products search,200,OK,E2E Users 1-20,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=dong,2,0,0
+1788159677187,4,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159677273,1,02 Products search,200,OK,E2E Users 1-23,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=kinh,1,0,0
+1788159677274,2,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,2,0,0
+1788159677328,2,01 Login,200,OK,E2E Users 1-3,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,2,0,0
+1788159677370,4,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159677377,3,04 Add cart,200,OK,E2E Users 1-1,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159677393,5,01 Login,200,OK,E2E Users 1-6,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159677463,4,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159677475,4,01 Login,200,OK,E2E Users 1-9,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159677569,5,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159677569,8,01 Login,200,OK,E2E Users 1-12,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,8,0,0
+1788159677650,2,03 Product detail,200,OK,E2E Users 1-2,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159677691,2,01 Login,200,OK,E2E Users 1-15,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,2,0,0
+1788159677701,2,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159677777,11,01 Login,200,OK,E2E Users 1-18,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,11,0,0
+1788159677777,12,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,12,0,0
+1788159677872,6,01 Login,200,OK,E2E Users 1-21,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159677889,5,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159677965,6,01 Login,200,OK,E2E Users 1-24,text,true,,640,287,24,24,http://127.0.0.1:3010/api/login,6,0,2
+1788159677975,3,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159677997,16,05 Checkout,200,OK,E2E Users 1-4,text,true,,315,427,24,24,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159678080,6,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,6,0,0
+1788159678081,15,05 Checkout,200,OK,E2E Users 1-7,text,true,,315,426,24,24,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159678168,2,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159678193,8,05 Checkout,200,OK,E2E Users 1-10,text,true,,315,428,24,24,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159678276,8,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,8,0,0
+1788159678276,13,05 Checkout,200,OK,E2E Users 1-13,text,true,,315,442,24,24,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159678331,3,02 Products search,200,OK,E2E Users 1-3,text,true,,267,352,24,24,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159678375,14,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,425,24,24,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159678381,15,05 Checkout,200,OK,E2E Users 1-1,text,true,,315,428,24,24,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159678400,1,02 Products search,200,OK,E2E Users 1-6,text,true,,453,352,23,23,http://127.0.0.1:3010/api/products?search=phone,1,0,0
+1788159678469,14,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159678482,2,02 Products search,200,OK,E2E Users 1-9,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=laptop,2,0,0
+1788159678575,15,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159678578,13,02 Products search,200,OK,E2E Users 1-12,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=tablet,13,0,0
+1788159678653,5,04 Add cart,200,OK,E2E Users 1-2,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,5,0,0
+1788159678694,3,02 Products search,200,OK,E2E Users 1-15,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159678704,4,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159678788,5,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159678788,7,02 Products search,200,OK,E2E Users 1-18,text,true,,267,347,24,24,http://127.0.0.1:3010/api/products?search=ao,7,0,0
+1788159678878,2,02 Products search,200,OK,E2E Users 1-21,text,true,,267,349,24,24,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159678894,2,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,2,0,0
+1788159678971,3,02 Products search,200,OK,E2E Users 1-24,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=tui,3,0,0
+1788159678978,5,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159679013,7,01 Login,200,OK,E2E Users 1-4,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159679087,4,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159679096,5,01 Login,200,OK,E2E Users 1-7,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159679169,4,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159679201,6,01 Login,200,OK,E2E Users 1-10,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159679284,3,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159679289,3,01 Login,200,OK,E2E Users 1-13,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159679335,3,03 Product detail,200,OK,E2E Users 1-3,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159679389,3,01 Login,200,OK,E2E Users 1-16,text,true,,643,409,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159679401,1,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159679482,5,01 Login,200,OK,E2E Users 1-19,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159679484,5,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159679590,3,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159679590,4,01 Login,200,OK,E2E Users 1-22,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159679658,11,05 Checkout,200,OK,E2E Users 1-2,text,true,,315,427,24,24,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159679675,5,01 Login,200,OK,E2E Users 1-25,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,5,0,1
+1788159679697,2,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159679708,11,05 Checkout,200,OK,E2E Users 1-5,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159679794,22,05 Checkout,200,OK,E2E Users 1-8,text,true,,315,423,23,23,http://127.0.0.1:3010/api/checkout,22,0,0
+1788159679796,21,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,21,0,0
+1788159679882,4,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159679898,11,05 Checkout,200,OK,E2E Users 1-11,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159679975,3,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159679985,16,05 Checkout,200,OK,E2E Users 1-14,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159680021,4,02 Products search,200,OK,E2E Users 1-4,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=dep,4,0,0
+1788159680092,16,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159680104,5,02 Products search,200,OK,E2E Users 1-7,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=non,5,0,0
+1788159680174,14,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159680209,2,02 Products search,200,OK,E2E Users 1-10,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=vay,2,0,0
+1788159680289,15,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159680293,12,02 Products search,200,OK,E2E Users 1-13,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=quan,12,0,0
+1788159680338,4,04 Add cart,200,OK,E2E Users 1-3,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159680393,3,02 Products search,200,OK,E2E Users 1-16,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159680403,5,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159680490,4,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159680489,7,02 Products search,200,OK,E2E Users 1-19,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=dong,7,0,0
+1788159680593,4,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159680595,3,02 Products search,200,OK,E2E Users 1-22,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159680681,3,02 Products search,200,OK,E2E Users 1-25,text,true,,267,352,24,24,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159680700,5,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159680721,4,01 Login,200,OK,E2E Users 1-5,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159680818,2,01 Login,200,OK,E2E Users 1-8,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,2,0,0
+1788159680819,4,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159680887,3,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159680910,4,01 Login,200,OK,E2E Users 1-11,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159680979,4,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159681002,6,01 Login,200,OK,E2E Users 1-14,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159681026,2,03 Product detail,200,OK,E2E Users 1-4,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159681110,7,01 Login,200,OK,E2E Users 1-17,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159681110,8,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,8,0,0
+1788159681189,5,01 Login,200,OK,E2E Users 1-20,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159681213,3,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159681305,5,01 Login,200,OK,E2E Users 1-23,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159681306,6,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,6,0,0
+1788159681344,17,05 Checkout,200,OK,E2E Users 1-3,text,true,,315,426,24,24,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159681386,5,01 Login,200,OK,E2E Users 1-26,text,true,,640,287,23,23,http://127.0.0.1:3010/api/login,4,0,1
+1788159681398,2,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159681408,11,05 Checkout,200,OK,E2E Users 1-6,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159681496,18,05 Checkout,200,OK,E2E Users 1-9,text,true,,315,442,23,23,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159681497,18,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,18,0,0
+1788159681597,17,05 Checkout,200,OK,E2E Users 1-12,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159681599,15,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,15,0,0
+1788159681686,3,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159681706,14,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159681727,3,02 Products search,200,OK,E2E Users 1-5,text,true,,453,352,23,23,http://127.0.0.1:3010/api/products?search=phone,3,0,0
+1788159681822,3,02 Products search,200,OK,E2E Users 1-8,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=laptop,3,0,0
+1788159681824,15,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159681891,14,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159681916,2,02 Products search,200,OK,E2E Users 1-11,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=tablet,2,0,0
+1788159681984,17,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159682010,4,02 Products search,200,OK,E2E Users 1-14,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=sach,4,0,0
+1788159682029,4,04 Add cart,200,OK,E2E Users 1-4,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159682119,2,02 Products search,200,OK,E2E Users 1-17,text,true,,267,347,24,24,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159682120,4,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159682197,2,02 Products search,200,OK,E2E Users 1-20,text,true,,267,349,24,24,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159682217,3,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159682311,2,02 Products search,200,OK,E2E Users 1-23,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159682313,2,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,2,0,0
+1788159682392,2,02 Products search,200,OK,E2E Users 1-26,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=dep,2,0,0
+1788159682402,4,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159682420,6,01 Login,200,OK,E2E Users 1-6,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159682516,5,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159682516,9,01 Login,200,OK,E2E Users 1-9,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,9,0,0
+1788159682615,3,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159682615,6,01 Login,200,OK,E2E Users 1-12,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159682690,4,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159682723,4,01 Login,200,OK,E2E Users 1-15,text,true,,643,409,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159682733,3,03 Product detail,200,OK,E2E Users 1-5,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159682827,3,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159682839,4,01 Login,200,OK,E2E Users 1-18,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159682907,6,01 Login,200,OK,E2E Users 1-21,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159682919,3,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159683003,5,01 Login,200,OK,E2E Users 1-24,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159683015,3,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159683035,16,05 Checkout,200,OK,E2E Users 1-4,text,true,,315,425,24,24,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159683103,10,01 Login,200,OK,E2E Users 1-27,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,10,0,3
+1788159683123,4,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159683126,19,05 Checkout,200,OK,E2E Users 1-7,text,true,,315,423,23,23,http://127.0.0.1:3010/api/checkout,19,0,0
+1788159683202,3,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159683221,10,05 Checkout,200,OK,E2E Users 1-10,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159683314,9,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,9,0,0
+1788159683315,14,05 Checkout,200,OK,E2E Users 1-13,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159683395,3,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159683408,17,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159683428,3,02 Products search,200,OK,E2E Users 1-6,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159683522,15,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159683526,12,02 Products search,200,OK,E2E Users 1-9,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=vay,12,0,0
+1788159683620,18,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159683623,15,02 Products search,200,OK,E2E Users 1-12,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=quan,15,0,0
+1788159683695,15,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159683729,3,02 Products search,200,OK,E2E Users 1-15,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159683737,3,04 Add cart,200,OK,E2E Users 1-5,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,3,0,0
+1788159683831,4,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159683845,2,02 Products search,200,OK,E2E Users 1-18,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=dong,2,0,0
+1788159683915,3,02 Products search,200,OK,E2E Users 1-21,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159683922,4,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159684010,3,02 Products search,200,OK,E2E Users 1-24,text,true,,267,352,24,24,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159684020,5,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159684115,1,02 Products search,200,OK,E2E Users 1-27,text,true,,453,352,24,24,http://127.0.0.1:3010/api/products?search=phone,1,0,0
+1788159684128,3,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159684148,5,01 Login,200,OK,E2E Users 1-7,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159684207,2,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,2,0,0
+1788159684233,2,01 Login,200,OK,E2E Users 1-10,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,2,0,0
+1788159684323,3,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159684330,3,01 Login,200,OK,E2E Users 1-13,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159684401,3,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159684428,6,01 Login,200,OK,E2E Users 1-16,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159684433,3,03 Product detail,200,OK,E2E Users 1-6,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159684538,4,01 Login,200,OK,E2E Users 1-19,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159684540,5,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159684640,5,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159684640,8,01 Login,200,OK,E2E Users 1-22,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,8,0,0
+1788159684712,6,01 Login,200,OK,E2E Users 1-25,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159684734,2,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159684741,14,05 Checkout,200,OK,E2E Users 1-5,text,true,,315,428,24,24,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159684823,6,01 Login,200,OK,E2E Users 1-28,text,true,,640,287,23,23,http://127.0.0.1:3010/api/login,6,0,1
+1788159684835,14,05 Checkout,200,OK,E2E Users 1-8,text,true,,315,442,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159684849,4,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159684919,8,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,8,0,0
+1788159684926,17,05 Checkout,200,OK,E2E Users 1-11,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159685014,4,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159685026,13,05 Checkout,200,OK,E2E Users 1-14,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159685117,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159685131,10,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159685154,3,02 Products search,200,OK,E2E Users 1-7,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=laptop,3,0,0
+1788159685209,16,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159685236,4,02 Products search,200,OK,E2E Users 1-10,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=tablet,4,0,0
+1788159685329,14,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159685335,9,02 Products search,200,OK,E2E Users 1-13,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=sach,9,0,0
+1788159685406,11,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159685435,2,02 Products search,200,OK,E2E Users 1-16,text,true,,267,347,23,23,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159685436,4,04 Add cart,200,OK,E2E Users 1-6,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159685544,3,02 Products search,200,OK,E2E Users 1-19,text,true,,267,349,24,24,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159685546,4,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159685646,4,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159685649,3,02 Products search,200,OK,E2E Users 1-22,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=tui,3,0,0
+1788159685719,3,02 Products search,200,OK,E2E Users 1-25,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159685738,3,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159685831,3,02 Products search,200,OK,E2E Users 1-28,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159685850,5,01 Login,200,OK,E2E Users 1-8,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159685853,6,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,6,0,0
+1788159685929,4,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159685945,6,01 Login,200,OK,E2E Users 1-11,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159686020,4,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159686041,5,01 Login,200,OK,E2E Users 1-14,text,true,,643,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159686122,5,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159686142,6,01 Login,200,OK,E2E Users 1-17,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159686160,3,03 Product detail,200,OK,E2E Users 1-7,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159686229,6,01 Login,200,OK,E2E Users 1-20,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159686241,3,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159686345,4,01 Login,200,OK,E2E Users 1-23,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159686346,3,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159686419,4,01 Login,200,OK,E2E Users 1-26,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159686439,3,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159686441,14,05 Checkout,200,OK,E2E Users 1-6,text,true,,315,423,24,24,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159686532,8,01 Login,200,OK,E2E Users 1-29,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,8,0,1
+1788159686549,9,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,9,0,0
+1788159686551,20,05 Checkout,200,OK,E2E Users 1-9,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,20,0,0
+1788159686651,15,05 Checkout,200,OK,E2E Users 1-12,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159686653,14,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,14,0,0
+1788159686724,3,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159686742,17,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159686836,3,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159686857,13,02 Products search,200,OK,E2E Users 1-8,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=vay,13,0,0
+1788159686860,19,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,19,0,0
+1788159686934,15,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159686952,3,02 Products search,200,OK,E2E Users 1-11,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159687025,13,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159687047,3,02 Products search,200,OK,E2E Users 1-14,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159687128,14,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159687149,3,02 Products search,200,OK,E2E Users 1-17,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159687163,5,04 Add cart,200,OK,E2E Users 1-7,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,5,0,0
+1788159687236,3,02 Products search,200,OK,E2E Users 1-20,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159687245,4,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159687350,5,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159687350,6,02 Products search,200,OK,E2E Users 1-23,text,true,,267,352,24,24,http://127.0.0.1:3010/api/products?search=watch,6,0,0
+1788159687424,4,02 Products search,200,OK,E2E Users 1-26,text,true,,453,352,24,24,http://127.0.0.1:3010/api/products?search=phone,4,0,0
+1788159687444,5,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159687543,3,02 Products search,200,OK,E2E Users 1-29,text,true,,267,353,24,24,http://127.0.0.1:3010/api/products?search=laptop,3,0,0
+1788159687560,4,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159687573,8,01 Login,200,OK,E2E Users 1-9,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,8,0,0
+1788159687668,5,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159687667,9,01 Login,200,OK,E2E Users 1-12,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,9,0,0
+1788159687728,4,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159687761,5,01 Login,200,OK,E2E Users 1-15,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159687841,4,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159687873,2,03 Product detail,200,OK,E2E Users 1-8,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159687881,6,01 Login,200,OK,E2E Users 1-18,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159687951,6,01 Login,200,OK,E2E Users 1-21,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159687957,3,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159688039,6,01 Login,200,OK,E2E Users 1-24,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159688051,3,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159688143,8,01 Login,200,OK,E2E Users 1-27,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,8,0,0
+1788159688153,4,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159688171,15,05 Checkout,200,OK,E2E Users 1-7,text,true,,315,442,24,24,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159688241,4,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159688250,19,05 Checkout,200,OK,E2E Users 1-10,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,19,0,0
+1788159688249,23,01 Login,200,OK,E2E Users 1-30,text,true,,640,287,23,23,http://127.0.0.1:3010/api/login,23,0,2
+1788159688356,20,05 Checkout,200,OK,E2E Users 1-13,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,20,0,0
+1788159688357,20,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,20,0,0
+1788159688429,4,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159688449,11,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159688548,3,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159688566,11,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159688583,2,02 Products search,200,OK,E2E Users 1-9,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=tablet,2,0,0
+1788159688675,12,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159688678,10,02 Products search,200,OK,E2E Users 1-12,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=sach,10,0,0
+1788159688733,16,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159688770,3,02 Products search,200,OK,E2E Users 1-15,text,true,,267,347,23,23,http://127.0.0.1:3010/api/products?search=ao,3,0,0
+1788159688847,18,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,423,23,23,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159688877,4,04 Add cart,200,OK,E2E Users 1-8,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159688890,2,02 Products search,200,OK,E2E Users 1-18,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159688959,4,02 Products search,200,OK,E2E Users 1-21,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=tui,4,0,0
+1788159688963,4,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159689047,5,02 Products search,200,OK,E2E Users 1-24,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=dep,5,0,0
+1788159689056,3,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159689154,3,02 Products search,200,OK,E2E Users 1-27,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159689159,4,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159689247,5,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159689271,2,01 Login,200,OK,E2E Users 1-10,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,2,0,0
+1788159689275,1,02 Products search,200,OK,E2E Users 1-30,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=vay,1,0,0
+1788159689378,3,01 Login,200,OK,E2E Users 1-13,text,true,,643,409,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159689379,3,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159689435,4,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159689462,5,01 Login,200,OK,E2E Users 1-16,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159689553,5,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159689580,7,01 Login,200,OK,E2E Users 1-19,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159689588,3,03 Product detail,200,OK,E2E Users 1-9,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159689691,2,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159689690,6,01 Login,200,OK,E2E Users 1-22,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159689751,3,01 Login,200,OK,E2E Users 1-25,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159689774,3,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159689868,4,01 Login,200,OK,E2E Users 1-28,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159689882,15,05 Checkout,200,OK,E2E Users 1-8,text,true,,315,420,24,24,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159689893,7,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,7,0,0
+1788159689953,5,01 Login,200,OK,E2E Users 1-31,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,5,0,2
+1788159689964,2,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159689968,11,05 Checkout,200,OK,E2E Users 1-11,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159690055,3,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159690061,17,05 Checkout,200,OK,E2E Users 1-14,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159690158,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159690165,15,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159690254,17,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159690273,4,02 Products search,200,OK,E2E Users 1-10,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=quan,4,0,0
+1788159690277,5,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159690382,8,02 Products search,200,OK,E2E Users 1-13,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=balo,8,0,0
+1788159690384,17,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159690440,15,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159690469,4,02 Products search,200,OK,E2E Users 1-16,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=dong,4,0,0
+1788159690559,17,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,442,23,23,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159690589,3,02 Products search,200,OK,E2E Users 1-19,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159690594,5,04 Add cart,200,OK,E2E Users 1-9,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,5,0,0
+1788159690695,5,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159690698,4,02 Products search,200,OK,E2E Users 1-22,text,true,,267,352,24,24,http://127.0.0.1:3010/api/products?search=watch,4,0,0
+1788159690755,2,02 Products search,200,OK,E2E Users 1-25,text,true,,453,352,24,24,http://127.0.0.1:3010/api/products?search=phone,2,0,0
+1788159690778,4,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159690873,4,02 Products search,200,OK,E2E Users 1-28,text,true,,267,353,24,24,http://127.0.0.1:3010/api/products?search=laptop,4,0,0
+1788159690901,7,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,7,0,0
+1788159690960,4,02 Products search,200,OK,E2E Users 1-31,text,true,,267,353,24,24,http://127.0.0.1:3010/api/products?search=tablet,4,0,0
+1788159690968,5,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159690981,6,01 Login,200,OK,E2E Users 1-11,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159691061,6,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,6,0,0
+1788159691081,5,01 Login,200,OK,E2E Users 1-14,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159691162,4,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159691182,6,01 Login,200,OK,E2E Users 1-17,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159691273,8,01 Login,200,OK,E2E Users 1-20,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,8,0,0
+1788159691278,6,03 Product detail,200,OK,E2E Users 1-10,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159691283,4,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159691392,4,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159691403,7,01 Login,200,OK,E2E Users 1-23,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159691456,6,01 Login,200,OK,E2E Users 1-26,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159691475,3,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159691577,7,01 Login,200,OK,E2E Users 1-29,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159691593,4,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159691600,17,05 Checkout,200,OK,E2E Users 1-9,text,true,,315,425,24,24,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159691670,9,01 Login,200,OK,E2E Users 1-32,text,true,,640,287,23,23,http://127.0.0.1:3010/api/login,9,0,2
+1788159691701,19,05 Checkout,200,OK,E2E Users 1-12,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159691704,17,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,17,0,0
+1788159691758,4,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159691783,21,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,20,0,0
+1788159691879,2,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159691909,9,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159691966,1,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159691974,12,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159691988,3,02 Products search,200,OK,E2E Users 1-11,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159692068,13,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159692087,3,02 Products search,200,OK,E2E Users 1-14,text,true,,267,347,23,23,http://127.0.0.1:3010/api/products?search=ao,3,0,0
+1788159692169,15,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,423,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159692189,3,02 Products search,200,OK,E2E Users 1-17,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159692283,3,02 Products search,200,OK,E2E Users 1-20,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=tui,3,0,0
+1788159692285,4,04 Add cart,200,OK,E2E Users 1-10,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159692288,16,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159692398,6,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,6,0,0
+1788159692412,3,02 Products search,200,OK,E2E Users 1-23,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159692463,3,02 Products search,200,OK,E2E Users 1-26,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=non,3,0,0
+1788159692480,3,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159692585,4,02 Products search,200,OK,E2E Users 1-29,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=vay,4,0,0
+1788159692598,5,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159692680,4,02 Products search,200,OK,E2E Users 1-32,text,true,,267,349,24,24,http://127.0.0.1:3010/api/products?search=quan,4,0,0
+1788159692721,6,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,6,0,0
+1788159692721,8,01 Login,200,OK,E2E Users 1-12,text,true,,643,409,24,24,http://127.0.0.1:3010/api/login,8,0,0
+1788159692764,4,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159692806,3,01 Login,200,OK,E2E Users 1-15,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159692882,4,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159692919,6,01 Login,200,OK,E2E Users 1-18,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159692968,5,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159692986,6,01 Login,200,OK,E2E Users 1-21,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159692993,3,03 Product detail,200,OK,E2E Users 1-11,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159693084,4,01 Login,200,OK,E2E Users 1-24,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159693091,2,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159693186,4,01 Login,200,OK,E2E Users 1-27,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159693192,2,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159693288,3,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159693291,15,05 Checkout,200,OK,E2E Users 1-10,text,true,,315,426,24,24,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159693305,13,01 Login,200,OK,E2E Users 1-30,text,true,,643,407,23,23,http://127.0.0.1:3010/api/login,13,0,0
+1788159693378,10,01 Login,200,OK,E2E Users 1-33,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,10,0,2
+1788159693406,8,05 Checkout,200,OK,E2E Users 1-13,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159693416,1,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159693468,3,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159693484,12,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159693590,3,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159693604,13,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159693685,3,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159693728,14,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159693730,13,02 Products search,200,OK,E2E Users 1-12,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=balo,13,0,0
+1788159693769,13,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159693810,3,02 Products search,200,OK,E2E Users 1-15,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159693887,14,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,442,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159693926,3,02 Products search,200,OK,E2E Users 1-18,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159693974,14,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159693993,2,02 Products search,200,OK,E2E Users 1-21,text,true,,267,352,23,23,http://127.0.0.1:3010/api/products?search=watch,2,0,0
+1788159693997,5,04 Add cart,200,OK,E2E Users 1-11,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,5,0,0
+1788159694090,3,02 Products search,200,OK,E2E Users 1-24,text,true,,453,352,23,23,http://127.0.0.1:3010/api/products?search=phone,3,0,0
+1788159694094,4,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159694191,4,02 Products search,200,OK,E2E Users 1-27,text,true,,267,353,24,24,http://127.0.0.1:3010/api/products?search=laptop,4,0,0
+1788159694195,5,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159694292,5,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159694320,4,02 Products search,200,OK,E2E Users 1-30,text,true,,267,353,24,24,http://127.0.0.1:3010/api/products?search=tablet,4,0,0
+1788159694390,3,02 Products search,200,OK,E2E Users 1-33,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159694418,5,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159694416,12,01 Login,200,OK,E2E Users 1-13,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,12,0,0
+1788159694472,5,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,5,0,0
+1788159694498,3,01 Login,200,OK,E2E Users 1-16,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159694594,3,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159694620,7,01 Login,200,OK,E2E Users 1-19,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159694689,4,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,404,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159694743,2,03 Product detail,200,OK,E2E Users 1-12,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159694743,3,01 Login,200,OK,E2E Users 1-22,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,3,0,0
+1788159694783,5,01 Login,200,OK,E2E Users 1-25,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159694814,3,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159694902,5,01 Login,200,OK,E2E Users 1-28,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159694930,2,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159694989,4,01 Login,200,OK,E2E Users 1-31,text,true,,640,409,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159694998,2,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,341,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159695003,13,05 Checkout,200,OK,E2E Users 1-11,text,true,,315,428,24,24,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159695094,3,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159695097,10,01 Login,200,OK,E2E Users 1-34,text,true,,643,287,23,23,http://127.0.0.1:3010/api/login,10,0,2
+1788159695100,19,05 Checkout,200,OK,E2E Users 1-14,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,19,0,0
+1788159695198,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159695201,15,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159695298,15,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159695327,3,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159695395,2,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159695424,14,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159695430,9,02 Products search,200,OK,E2E Users 1-13,text,true,,267,347,23,23,http://127.0.0.1:3010/api/products?search=ao,9,0,0
+1788159695479,15,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,423,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159695502,2,02 Products search,200,OK,E2E Users 1-16,text,true,,267,349,23,23,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159695599,13,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,420,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159695628,4,02 Products search,200,OK,E2E Users 1-19,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=tui,4,0,0
+1788159695694,12,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159695746,4,04 Add cart,200,OK,E2E Users 1-12,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159695748,4,02 Products search,200,OK,E2E Users 1-22,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=dep,4,0,0
+1788159695790,2,02 Products search,200,OK,E2E Users 1-25,text,true,,267,348,23,23,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159695819,2,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,2,0,0
+1788159695908,3,02 Products search,200,OK,E2E Users 1-28,text,true,,267,348,24,24,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159695932,4,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159695995,3,02 Products search,200,OK,E2E Users 1-31,text,true,,267,349,24,24,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159696001,3,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159696098,3,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159696108,3,02 Products search,200,OK,E2E Users 1-34,text,true,,267,351,24,24,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159696121,6,01 Login,200,OK,E2E Users 1-14,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,6,0,0
+1788159696202,3,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,3,0,0
+1788159696217,4,01 Login,200,OK,E2E Users 1-17,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159696315,4,01 Login,200,OK,E2E Users 1-20,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,4,0,0
+1788159696330,4,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159696397,4,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,24,24,http://127.0.0.1:3010/api/cart,4,0,0
+1788159696440,5,01 Login,200,OK,E2E Users 1-23,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159696441,5,03 Product detail,200,OK,E2E Users 1-13,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159696496,7,01 Login,200,OK,E2E Users 1-26,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,7,0,0
+1788159696505,3,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159696613,5,01 Login,200,OK,E2E Users 1-29,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159696633,3,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159696706,5,01 Login,200,OK,E2E Users 1-32,text,true,,643,407,24,24,http://127.0.0.1:3010/api/login,5,0,0
+1788159696751,10,05 Checkout,200,OK,E2E Users 1-12,text,true,,315,426,24,24,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159696753,8,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,339,24,24,http://127.0.0.1:3010/api/products/1,8,0,0
+1788159696793,2,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159696804,6,01 Login,200,OK,E2E Users 1-35,text,true,,640,287,23,23,http://127.0.0.1:3010/api/login,6,0,2
+1788159696822,16,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,433,23,23,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159696912,5,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159696937,14,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,427,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159697000,3,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,339,23,23,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159697006,13,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,426,23,23,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159697102,9,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159697113,2,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159697128,2,02 Products search,200,OK,E2E Users 1-14,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=dong,2,0,0
+1788159697206,14,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,442,23,23,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159697223,2,02 Products search,200,OK,E2E Users 1-17,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=kinh,2,0,0
+1788159697321,4,02 Products search,200,OK,E2E Users 1-20,text,true,,267,352,23,23,http://127.0.0.1:3010/api/products?search=watch,4,0,0
+1788159697336,20,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,425,23,23,http://127.0.0.1:3010/api/checkout,20,0,0
+1788159697403,12,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,428,23,23,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159697447,6,04 Add cart,200,OK,E2E Users 1-13,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,6,0,0
+1788159697446,8,02 Products search,200,OK,E2E Users 1-23,text,true,,453,352,23,23,http://127.0.0.1:3010/api/products?search=phone,8,0,0
+1788159697505,2,02 Products search,200,OK,E2E Users 1-26,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=laptop,2,0,0
+1788159697509,4,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159697619,3,02 Products search,200,OK,E2E Users 1-29,text,true,,267,353,23,23,http://127.0.0.1:3010/api/products?search=tablet,3,0,0
+1788159697637,4,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,4,0,0
+1788159697712,3,02 Products search,200,OK,E2E Users 1-32,text,true,,267,351,23,23,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159697764,3,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,3,0,0
+1788159697797,3,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,3,0,0
+1788159697812,2,02 Products search,200,OK,E2E Users 1-35,text,true,,267,347,23,23,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159697840,6,01 Login,200,OK,E2E Users 1-15,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,6,0,0
+1788159697918,3,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,3,0,0
+1788159697954,4,01 Login,200,OK,E2E Users 1-18,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,4,0,0
+1788159698004,5,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,404,23,23,http://127.0.0.1:3010/api/cart,5,0,0
+1788159698020,9,01 Login,200,OK,E2E Users 1-21,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,9,0,0
+1788159698112,3,01 Login,200,OK,E2E Users 1-24,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,3,0,0
+1788159698116,3,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,406,23,23,http://127.0.0.1:3010/api/cart,3,0,0
+1788159698132,1,03 Product detail,200,OK,E2E Users 1-14,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159698221,4,01 Login,200,OK,E2E Users 1-27,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,4,0,0
+1788159698227,2,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159698328,2,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159698357,8,01 Login,200,OK,E2E Users 1-30,text,true,,640,409,23,23,http://127.0.0.1:3010/api/login,8,0,0
+1788159698416,8,01 Login,200,OK,E2E Users 1-33,text,true,,643,409,23,23,http://127.0.0.1:3010/api/login,8,0,0
+1788159698455,6,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,341,23,23,http://127.0.0.1:3010/api/products/1,6,0,0
+1788159698455,15,05 Checkout,200,OK,E2E Users 1-13,text,true,,315,424,23,23,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159698509,2,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,341,22,22,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159698515,14,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,420,22,22,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159698624,3,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,341,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159698642,14,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,427,22,22,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159698717,3,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,341,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159698767,9,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,425,22,22,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159698800,14,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,423,22,22,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159698815,2,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159698846,16,02 Products search,200,OK,E2E Users 1-15,text,true,,267,349,22,22,http://127.0.0.1:3010/api/products?search=giay,16,0,0
+1788159698921,13,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,420,22,22,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159698959,2,02 Products search,200,OK,E2E Users 1-18,text,true,,267,348,22,22,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159699009,10,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,426,22,22,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159699030,3,02 Products search,200,OK,E2E Users 1-21,text,true,,267,348,22,22,http://127.0.0.1:3010/api/products?search=dep,3,0,0
+1788159699115,2,02 Products search,200,OK,E2E Users 1-24,text,true,,267,348,22,22,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159699119,12,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,426,22,22,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159699133,2,04 Add cart,200,OK,E2E Users 1-14,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,2,0,0
+1788159699225,2,02 Products search,200,OK,E2E Users 1-27,text,true,,267,348,22,22,http://127.0.0.1:3010/api/products?search=vay,2,0,0
+1788159699229,4,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,4,0,0
+1788159699330,2,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,2,0,0
+1788159699365,2,02 Products search,200,OK,E2E Users 1-30,text,true,,267,349,22,22,http://127.0.0.1:3010/api/products?search=quan,2,0,0
+1788159699424,5,02 Products search,200,OK,E2E Users 1-33,text,true,,267,351,22,22,http://127.0.0.1:3010/api/products?search=balo,5,0,0
+1788159699461,5,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,5,0,0
+1788159699512,4,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,4,0,0
+1788159699531,4,01 Login,200,OK,E2E Users 1-16,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,4,0,0
+1788159699626,3,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,3,0,0
+1788159699656,3,01 Login,200,OK,E2E Users 1-19,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,3,0,0
+1788159699720,3,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,406,22,22,http://127.0.0.1:3010/api/cart,3,0,0
+1788159699778,6,01 Login,200,OK,E2E Users 1-22,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,6,0,0
+1788159699816,5,01 Login,200,OK,E2E Users 1-25,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,5,0,0
+1788159699819,3,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,404,22,22,http://127.0.0.1:3010/api/cart,3,0,0
+1788159699863,2,03 Product detail,200,OK,E2E Users 1-15,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159699936,4,01 Login,200,OK,E2E Users 1-28,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,4,0,0
+1788159699962,3,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159700021,4,01 Login,200,OK,E2E Users 1-31,text,true,,643,407,22,22,http://127.0.0.1:3010/api/login,4,0,0
+1788159700034,4,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159700118,3,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,339,22,22,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159700132,5,01 Login,200,OK,E2E Users 1-34,text,true,,643,409,22,22,http://127.0.0.1:3010/api/login,5,0,0
+1788159700136,13,05 Checkout,200,OK,E2E Users 1-14,text,true,,315,433,22,22,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159700229,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,339,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159700233,15,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,427,21,21,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159700333,14,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,426,21,21,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159700369,3,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,339,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159700432,3,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159700468,14,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,428,21,21,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159700517,14,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,442,21,21,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159700537,3,02 Products search,200,OK,E2E Users 1-16,text,true,,267,351,21,21,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159700629,10,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,425,21,21,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159700660,3,02 Products search,200,OK,E2E Users 1-19,text,true,,267,351,21,21,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159700724,13,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,428,21,21,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159700785,2,02 Products search,200,OK,E2E Users 1-22,text,true,,267,352,21,21,http://127.0.0.1:3010/api/products?search=watch,2,0,0
+1788159700822,5,02 Products search,200,OK,E2E Users 1-25,text,true,,453,352,21,21,http://127.0.0.1:3010/api/products?search=phone,5,0,0
+1788159700823,11,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,424,21,21,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159700866,2,04 Add cart,200,OK,E2E Users 1-15,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,2,0,0
+1788159700941,3,02 Products search,200,OK,E2E Users 1-28,text,true,,267,353,21,21,http://127.0.0.1:3010/api/products?search=laptop,3,0,0
+1788159700966,4,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,4,0,0
+1788159701026,3,02 Products search,200,OK,E2E Users 1-31,text,true,,267,353,21,21,http://127.0.0.1:3010/api/products?search=tablet,3,0,0
+1788159701039,5,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,5,0,0
+1788159701123,4,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,4,0,0
+1788159701138,4,02 Products search,200,OK,E2E Users 1-34,text,true,,267,351,21,21,http://127.0.0.1:3010/api/products?search=sach,4,0,0
+1788159701233,5,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,4,0,0
+1788159701251,7,01 Login,200,OK,E2E Users 1-17,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,7,0,0
+1788159701349,4,01 Login,200,OK,E2E Users 1-20,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,4,0,0
+1788159701373,7,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,404,21,21,http://127.0.0.1:3010/api/cart,7,0,0
+1788159701435,3,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,21,21,http://127.0.0.1:3010/api/cart,3,0,0
+1788159701483,5,01 Login,200,OK,E2E Users 1-23,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,5,0,0
+1788159701532,7,01 Login,200,OK,E2E Users 1-26,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,7,0,0
+1788159701541,4,03 Product detail,200,OK,E2E Users 1-16,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159701640,4,01 Login,200,OK,E2E Users 1-29,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,4,0,0
+1788159701665,3,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159701737,5,01 Login,200,OK,E2E Users 1-32,text,true,,640,409,21,21,http://127.0.0.1:3010/api/login,5,0,0
+1788159701788,3,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159701829,2,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,341,21,21,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159701835,5,01 Login,200,OK,E2E Users 1-35,text,true,,640,407,21,21,http://127.0.0.1:3010/api/login,5,0,0
+1788159701870,17,05 Checkout,200,OK,E2E Users 1-15,text,true,,315,420,21,21,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159701946,2,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,341,20,20,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159701971,13,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,427,20,20,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159702031,4,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,341,20,20,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159702044,15,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,425,20,20,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159702128,13,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,423,20,20,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159702143,2,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,341,20,20,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159702238,14,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,420,20,20,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159702259,3,02 Products search,200,OK,E2E Users 1-17,text,true,,267,347,20,20,http://127.0.0.1:3010/api/products?search=ao,3,0,0
+1788159702354,3,02 Products search,200,OK,E2E Users 1-20,text,true,,267,349,20,20,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159702382,13,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,426,20,20,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159702438,28,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,426,20,20,http://127.0.0.1:3010/api/checkout,28,0,0
+1788159702490,2,02 Products search,200,OK,E2E Users 1-23,text,true,,267,348,20,20,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159702540,2,02 Products search,200,OK,E2E Users 1-26,text,true,,267,348,20,20,http://127.0.0.1:3010/api/products?search=dep,2,0,0
+1788159702547,4,04 Add cart,200,OK,E2E Users 1-16,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159702646,3,02 Products search,200,OK,E2E Users 1-29,text,true,,267,348,20,20,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159702668,5,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,5,0,0
+1788159702743,3,02 Products search,200,OK,E2E Users 1-32,text,true,,267,348,20,20,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159702792,4,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159702832,4,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159702842,3,02 Products search,200,OK,E2E Users 1-35,text,true,,267,349,20,20,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159702950,5,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,5,0,0
+1788159702985,4,01 Login,200,OK,E2E Users 1-18,text,true,,643,407,20,20,http://127.0.0.1:3010/api/login,3,0,0
+1788159703037,2,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,2,0,0
+1788159703060,6,01 Login,200,OK,E2E Users 1-21,text,true,,643,407,20,20,http://127.0.0.1:3010/api/login,6,0,0
+1788159703142,5,01 Login,200,OK,E2E Users 1-24,text,true,,643,407,20,20,http://127.0.0.1:3010/api/login,5,0,0
+1788159703147,4,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,406,20,20,http://127.0.0.1:3010/api/cart,4,0,0
+1788159703253,5,01 Login,200,OK,E2E Users 1-27,text,true,,643,407,20,20,http://127.0.0.1:3010/api/login,5,0,0
+1788159703264,3,03 Product detail,200,OK,E2E Users 1-17,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159703358,4,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159703395,7,01 Login,200,OK,E2E Users 1-30,text,true,,643,407,20,20,http://127.0.0.1:3010/api/login,7,0,0
+1788159703467,5,01 Login,200,OK,E2E Users 1-33,text,true,,643,409,20,20,http://127.0.0.1:3010/api/login,5,0,0
+1788159703494,2,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159703545,2,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,339,20,20,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159703551,9,05 Checkout,200,OK,E2E Users 1-16,text,true,,315,433,20,20,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159703651,3,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,339,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159703674,16,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,427,19,19,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159703747,3,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,339,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159703797,13,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,426,19,19,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159703837,10,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,428,19,19,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159703847,1,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,339,19,19,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159703956,19,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,442,19,19,http://127.0.0.1:3010/api/checkout,19,0,0
+1788159703990,1,02 Products search,200,OK,E2E Users 1-18,text,true,,267,351,19,19,http://127.0.0.1:3010/api/products?search=balo,1,0,0
+1788159704042,10,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,425,19,19,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159704067,2,02 Products search,200,OK,E2E Users 1-21,text,true,,267,351,19,19,http://127.0.0.1:3010/api/products?search=dong,2,0,0
+1788159704148,2,02 Products search,200,OK,E2E Users 1-24,text,true,,267,351,19,19,http://127.0.0.1:3010/api/products?search=kinh,2,0,0
+1788159704151,18,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,428,19,19,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159704260,2,02 Products search,200,OK,E2E Users 1-27,text,true,,267,352,19,19,http://127.0.0.1:3010/api/products?search=watch,2,0,0
+1788159704269,3,04 Add cart,200,OK,E2E Users 1-17,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,3,0,0
+1788159704363,4,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,4,0,0
+1788159704403,2,02 Products search,200,OK,E2E Users 1-30,text,true,,453,352,19,19,http://127.0.0.1:3010/api/products?search=phone,2,0,0
+1788159704474,3,02 Products search,200,OK,E2E Users 1-33,text,true,,267,353,19,19,http://127.0.0.1:3010/api/products?search=laptop,2,0,0
+1788159704497,3,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,3,0,0
+1788159704548,4,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,4,0,0
+1788159704655,4,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,4,0,0
+1788159704690,6,01 Login,200,OK,E2E Users 1-19,text,true,,643,409,19,19,http://127.0.0.1:3010/api/login,6,0,0
+1788159704752,4,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,4,0,0
+1788159704812,6,01 Login,200,OK,E2E Users 1-22,text,true,,643,409,19,19,http://127.0.0.1:3010/api/login,6,0,0
+1788159704850,4,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,404,19,19,http://127.0.0.1:3010/api/cart,4,0,0
+1788159704848,10,01 Login,200,OK,E2E Users 1-25,text,true,,640,409,19,19,http://127.0.0.1:3010/api/login,10,0,0
+1788159704976,6,01 Login,200,OK,E2E Users 1-28,text,true,,640,409,19,19,http://127.0.0.1:3010/api/login,6,0,0
+1788159704992,3,03 Product detail,200,OK,E2E Users 1-18,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159705054,5,01 Login,200,OK,E2E Users 1-31,text,true,,640,409,19,19,http://127.0.0.1:3010/api/login,5,0,0
+1788159705070,3,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159705152,3,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159705171,5,01 Login,200,OK,E2E Users 1-34,text,true,,640,409,19,19,http://127.0.0.1:3010/api/login,5,0,0
+1788159705264,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,341,19,19,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159705272,16,05 Checkout,200,OK,E2E Users 1-17,text,true,,315,424,19,19,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159705368,15,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,420,18,18,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159705407,3,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159705478,2,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159705501,14,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,427,18,18,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159705552,11,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,425,18,18,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159705660,12,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,423,18,18,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159705697,2,02 Products search,200,OK,E2E Users 1-19,text,true,,267,353,18,18,http://127.0.0.1:3010/api/products?search=tablet,2,0,0
+1788159705757,15,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,420,18,18,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159705819,3,02 Products search,200,OK,E2E Users 1-22,text,true,,267,351,18,18,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159705856,17,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,426,18,18,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159705860,14,02 Products search,200,OK,E2E Users 1-25,text,true,,267,347,18,18,http://127.0.0.1:3010/api/products?search=ao,14,0,0
+1788159705983,3,02 Products search,200,OK,E2E Users 1-28,text,true,,267,349,18,18,http://127.0.0.1:3010/api/products?search=giay,3,0,0
+1788159705997,3,04 Add cart,200,OK,E2E Users 1-18,text,true,,294,406,18,18,http://127.0.0.1:3010/api/cart,3,0,0
+1788159706060,4,02 Products search,200,OK,E2E Users 1-31,text,true,,267,348,18,18,http://127.0.0.1:3010/api/products?search=tui,4,0,0
+1788159706073,5,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,406,18,18,http://127.0.0.1:3010/api/cart,5,0,0
+1788159706156,4,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,406,18,18,http://127.0.0.1:3010/api/cart,4,0,0
+1788159706178,2,02 Products search,200,OK,E2E Users 1-34,text,true,,267,348,18,18,http://127.0.0.1:3010/api/products?search=dep,2,0,0
+1788159706268,4,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,406,18,18,http://127.0.0.1:3010/api/cart,4,0,0
+1788159706384,6,01 Login,200,OK,E2E Users 1-20,text,true,,640,407,18,18,http://127.0.0.1:3010/api/login,6,0,0
+1788159706411,3,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,406,18,18,http://127.0.0.1:3010/api/cart,3,0,0
+1788159706482,2,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,18,18,http://127.0.0.1:3010/api/cart,2,0,0
+1788159706517,6,01 Login,200,OK,E2E Users 1-23,text,true,,640,407,18,18,http://127.0.0.1:3010/api/login,6,0,0
+1788159706563,6,01 Login,200,OK,E2E Users 1-26,text,true,,640,407,18,18,http://127.0.0.1:3010/api/login,6,0,0
+1788159706673,4,01 Login,200,OK,E2E Users 1-29,text,true,,643,407,18,18,http://127.0.0.1:3010/api/login,4,0,0
+1788159706699,3,03 Product detail,200,OK,E2E Users 1-19,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159706774,5,01 Login,200,OK,E2E Users 1-32,text,true,,643,407,18,18,http://127.0.0.1:3010/api/login,5,0,0
+1788159706823,3,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,341,18,18,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159706875,5,01 Login,200,OK,E2E Users 1-35,text,true,,643,407,18,18,http://127.0.0.1:3010/api/login,5,0,0
+1788159706876,5,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,339,18,18,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159706987,4,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,339,18,18,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159707001,16,05 Checkout,200,OK,E2E Users 1-18,text,true,,315,426,18,18,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159707066,4,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159707080,16,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,433,17,17,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159707161,14,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,427,17,17,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159707181,3,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159707273,15,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,426,17,17,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159707391,2,02 Products search,200,OK,E2E Users 1-20,text,true,,267,348,17,17,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159707415,16,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,428,17,17,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159707485,17,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,442,17,17,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159707524,3,02 Products search,200,OK,E2E Users 1-23,text,true,,267,348,17,17,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159707570,3,02 Products search,200,OK,E2E Users 1-26,text,true,,267,349,17,17,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159707679,3,02 Products search,200,OK,E2E Users 1-29,text,true,,267,351,17,17,http://127.0.0.1:3010/api/products?search=balo,3,0,0
+1788159707704,2,04 Add cart,200,OK,E2E Users 1-19,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,2,0,0
+1788159707780,3,02 Products search,200,OK,E2E Users 1-32,text,true,,267,351,17,17,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159707827,4,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,406,17,17,http://127.0.0.1:3010/api/cart,4,0,0
+1788159707882,2,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,404,17,17,http://127.0.0.1:3010/api/cart,2,0,0
+1788159707882,3,02 Products search,200,OK,E2E Users 1-35,text,true,,267,351,17,17,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159707992,6,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,404,17,17,http://127.0.0.1:3010/api/cart,6,0,0
+1788159708071,4,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,404,17,17,http://127.0.0.1:3010/api/cart,4,0,0
+1788159708097,5,01 Login,200,OK,E2E Users 1-21,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,5,0,0
+1788159708176,5,01 Login,200,OK,E2E Users 1-24,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,5,0,0
+1788159708185,4,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,404,17,17,http://127.0.0.1:3010/api/cart,4,0,0
+1788159708289,5,01 Login,200,OK,E2E Users 1-27,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,5,0,0
+1788159708396,3,03 Product detail,200,OK,E2E Users 1-20,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159708433,4,01 Login,200,OK,E2E Users 1-30,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,4,0,0
+1788159708502,5,01 Login,200,OK,E2E Users 1-33,text,true,,643,409,17,17,http://127.0.0.1:3010/api/login,5,0,0
+1788159708529,3,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159708574,2,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,339,17,17,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159708685,2,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,341,17,17,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159708706,15,05 Checkout,200,OK,E2E Users 1-19,text,true,,315,425,17,17,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159708784,3,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159708832,11,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,428,16,16,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159708885,15,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,424,16,16,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159708885,16,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,16,0,0
+1788159708999,14,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,420,16,16,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159709076,16,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,427,16,16,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159709104,2,02 Products search,200,OK,E2E Users 1-21,text,true,,267,352,16,16,http://127.0.0.1:3010/api/products?search=watch,2,0,0
+1788159709182,3,02 Products search,200,OK,E2E Users 1-24,text,true,,453,352,16,16,http://127.0.0.1:3010/api/products?search=phone,3,0,0
+1788159709190,14,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,425,16,16,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159709296,1,02 Products search,200,OK,E2E Users 1-27,text,true,,267,353,16,16,http://127.0.0.1:3010/api/products?search=laptop,1,0,0
+1788159709400,5,04 Add cart,200,OK,E2E Users 1-20,text,true,,294,404,16,16,http://127.0.0.1:3010/api/cart,5,0,0
+1788159709438,3,02 Products search,200,OK,E2E Users 1-30,text,true,,267,353,16,16,http://127.0.0.1:3010/api/products?search=tablet,3,0,0
+1788159709508,3,02 Products search,200,OK,E2E Users 1-33,text,true,,267,351,16,16,http://127.0.0.1:3010/api/products?search=sach,3,0,0
+1788159709534,4,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,404,16,16,http://127.0.0.1:3010/api/cart,4,0,0
+1788159709577,4,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,404,16,16,http://127.0.0.1:3010/api/cart,4,0,0
+1788159709688,4,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,406,16,16,http://127.0.0.1:3010/api/cart,4,0,0
+1788159709788,3,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,406,16,16,http://127.0.0.1:3010/api/cart,3,0,0
+1788159709844,5,01 Login,200,OK,E2E Users 1-22,text,true,,640,409,16,16,http://127.0.0.1:3010/api/login,5,0,0
+1788159709902,3,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,406,16,16,http://127.0.0.1:3010/api/cart,3,0,0
+1788159709900,8,01 Login,200,OK,E2E Users 1-25,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,8,0,0
+1788159710013,3,01 Login,200,OK,E2E Users 1-28,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,3,0,0
+1788159710093,5,01 Login,200,OK,E2E Users 1-31,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,5,0,0
+1788159710107,2,03 Product detail,200,OK,E2E Users 1-21,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159710187,2,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159710205,7,01 Login,200,OK,E2E Users 1-34,text,true,,640,407,16,16,http://127.0.0.1:3010/api/login,7,0,0
+1788159710298,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,341,16,16,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159710406,17,05 Checkout,200,OK,E2E Users 1-20,text,true,,315,423,16,16,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159710444,2,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,341,15,15,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159710513,2,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,15,15,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159710539,11,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,420,15,15,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159710582,8,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,426,15,15,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159710693,15,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,426,15,15,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159710792,11,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,433,15,15,http://127.0.0.1:3010/api/checkout,11,0,0
+1788159710850,2,02 Products search,200,OK,E2E Users 1-22,text,true,,267,347,15,15,http://127.0.0.1:3010/api/products?search=ao,2,0,0
+1788159710907,9,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,427,15,15,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159710909,8,02 Products search,200,OK,E2E Users 1-25,text,true,,267,349,15,15,http://127.0.0.1:3010/api/products?search=giay,8,0,0
+1788159711017,2,02 Products search,200,OK,E2E Users 1-28,text,true,,267,348,15,15,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159711099,4,02 Products search,200,OK,E2E Users 1-31,text,true,,267,348,15,15,http://127.0.0.1:3010/api/products?search=dep,4,0,0
+1788159711110,4,04 Add cart,200,OK,E2E Users 1-21,text,true,,294,406,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159711190,4,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,406,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159711214,2,02 Products search,200,OK,E2E Users 1-34,text,true,,267,348,15,15,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159711304,4,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,406,15,15,http://127.0.0.1:3010/api/cart,4,0,0
+1788159711448,3,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,406,15,15,http://127.0.0.1:3010/api/cart,3,0,0
+1788159711516,3,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,15,15,http://127.0.0.1:3010/api/cart,2,0,0
+1788159711552,8,01 Login,200,OK,E2E Users 1-23,text,true,,640,407,15,15,http://127.0.0.1:3010/api/login,8,0,0
+1788159711590,5,01 Login,200,OK,E2E Users 1-26,text,true,,640,407,15,15,http://127.0.0.1:3010/api/login,5,0,0
+1788159711709,7,01 Login,200,OK,E2E Users 1-29,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,7,0,0
+1788159711805,6,01 Login,200,OK,E2E Users 1-32,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,6,0,0
+1788159711854,2,03 Product detail,200,OK,E2E Users 1-22,text,true,,451,339,15,15,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159711917,6,01 Login,200,OK,E2E Users 1-35,text,true,,643,409,15,15,http://127.0.0.1:3010/api/login,6,0,0
+1788159711918,6,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,339,15,15,http://127.0.0.1:3010/api/products/1,6,0,0
+1788159712021,3,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,339,15,15,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159712105,2,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,339,15,15,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159712115,15,05 Checkout,200,OK,E2E Users 1-21,text,true,,315,426,15,15,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159712196,8,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,428,14,14,http://127.0.0.1:3010/api/checkout,8,0,0
+1788159712217,2,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159712309,18,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,442,14,14,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159712451,17,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,425,14,14,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159712519,18,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,428,14,14,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159712562,4,02 Products search,200,OK,E2E Users 1-23,text,true,,267,348,14,14,http://127.0.0.1:3010/api/products?search=vay,4,0,0
+1788159712596,3,02 Products search,200,OK,E2E Users 1-26,text,true,,267,349,14,14,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159712717,2,02 Products search,200,OK,E2E Users 1-29,text,true,,267,351,14,14,http://127.0.0.1:3010/api/products?search=balo,2,0,0
+1788159712812,3,02 Products search,200,OK,E2E Users 1-32,text,true,,267,351,14,14,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159712858,5,04 Add cart,200,OK,E2E Users 1-22,text,true,,294,404,14,14,http://127.0.0.1:3010/api/cart,5,0,0
+1788159712925,4,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,404,14,14,http://127.0.0.1:3010/api/cart,4,0,0
+1788159712925,6,02 Products search,200,OK,E2E Users 1-35,text,true,,267,351,14,14,http://127.0.0.1:3010/api/products?search=kinh,6,0,0
+1788159713026,5,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,404,14,14,http://127.0.0.1:3010/api/cart,5,0,0
+1788159713110,5,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,404,14,14,http://127.0.0.1:3010/api/cart,5,0,0
+1788159713205,6,01 Login,200,OK,E2E Users 1-24,text,true,,643,409,14,14,http://127.0.0.1:3010/api/login,6,0,0
+1788159713220,6,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,404,14,14,http://127.0.0.1:3010/api/cart,6,0,0
+1788159713329,6,01 Login,200,OK,E2E Users 1-27,text,true,,643,409,14,14,http://127.0.0.1:3010/api/login,6,0,0
+1788159713469,8,01 Login,200,OK,E2E Users 1-30,text,true,,643,409,14,14,http://127.0.0.1:3010/api/login,8,0,0
+1788159713538,9,01 Login,200,OK,E2E Users 1-33,text,true,,643,409,14,14,http://127.0.0.1:3010/api/login,9,0,0
+1788159713567,3,03 Product detail,200,OK,E2E Users 1-23,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159713600,2,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,339,14,14,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159713720,2,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,341,14,14,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159713817,2,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,341,14,14,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159713864,16,05 Checkout,200,OK,E2E Users 1-22,text,true,,315,424,14,14,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159713931,17,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,420,13,13,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159713933,16,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,16,0,0
+1788159714032,17,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,427,13,13,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159714116,17,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,425,13,13,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159714212,3,02 Products search,200,OK,E2E Users 1-24,text,true,,267,352,13,13,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159714227,15,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,423,13,13,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159714336,1,02 Products search,200,OK,E2E Users 1-27,text,true,,453,352,13,13,http://127.0.0.1:3010/api/products?search=phone,1,0,0
+1788159714479,2,02 Products search,200,OK,E2E Users 1-30,text,true,,267,353,13,13,http://127.0.0.1:3010/api/products?search=laptop,2,0,0
+1788159714548,2,02 Products search,200,OK,E2E Users 1-33,text,true,,267,353,13,13,http://127.0.0.1:3010/api/products?search=tablet,2,0,0
+1788159714570,4,04 Add cart,200,OK,E2E Users 1-23,text,true,,294,404,13,13,http://127.0.0.1:3010/api/cart,4,0,0
+1788159714603,4,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,404,13,13,http://127.0.0.1:3010/api/cart,4,0,0
+1788159714723,2,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,2,0,0
+1788159714819,6,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,6,0,0
+1788159714950,5,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,406,13,13,http://127.0.0.1:3010/api/cart,5,0,0
+1788159714949,9,01 Login,200,OK,E2E Users 1-25,text,true,,643,407,13,13,http://127.0.0.1:3010/api/login,9,0,0
+1788159715051,4,01 Login,200,OK,E2E Users 1-28,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,4,0,0
+1788159715135,4,01 Login,200,OK,E2E Users 1-31,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,4,0,0
+1788159715216,4,03 Product detail,200,OK,E2E Users 1-24,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159715243,5,01 Login,200,OK,E2E Users 1-34,text,true,,640,407,13,13,http://127.0.0.1:3010/api/login,5,0,0
+1788159715339,3,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159715482,9,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,9,0,0
+1788159715551,2,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,13,13,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159715575,10,05 Checkout,200,OK,E2E Users 1-23,text,true,,315,420,13,13,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159715609,13,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,426,12,12,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159715726,13,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,426,12,12,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159715827,15,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,433,12,12,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159715956,13,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,427,12,12,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159715960,10,02 Products search,200,OK,E2E Users 1-25,text,true,,267,351,12,12,http://127.0.0.1:3010/api/products?search=sach,10,0,0
+1788159716059,4,02 Products search,200,OK,E2E Users 1-28,text,true,,267,347,12,12,http://127.0.0.1:3010/api/products?search=ao,4,0,0
+1788159716140,2,02 Products search,200,OK,E2E Users 1-31,text,true,,267,349,12,12,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159716220,4,04 Add cart,200,OK,E2E Users 1-24,text,true,,294,406,12,12,http://127.0.0.1:3010/api/cart,4,0,0
+1788159716248,3,02 Products search,200,OK,E2E Users 1-34,text,true,,267,348,12,12,http://127.0.0.1:3010/api/products?search=tui,3,0,0
+1788159716343,4,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,406,12,12,http://127.0.0.1:3010/api/cart,4,0,0
+1788159716492,3,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,406,12,12,http://127.0.0.1:3010/api/cart,3,0,0
+1788159716554,4,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,12,12,http://127.0.0.1:3010/api/cart,4,0,0
+1788159716624,5,01 Login,200,OK,E2E Users 1-26,text,true,,640,407,12,12,http://127.0.0.1:3010/api/login,5,0,0
+1788159716740,5,01 Login,200,OK,E2E Users 1-29,text,true,,640,409,12,12,http://127.0.0.1:3010/api/login,5,0,0
+1788159716843,5,01 Login,200,OK,E2E Users 1-32,text,true,,640,409,12,12,http://127.0.0.1:3010/api/login,5,0,0
+1788159716970,8,01 Login,200,OK,E2E Users 1-35,text,true,,640,409,12,12,http://127.0.0.1:3010/api/login,8,0,0
+1788159716972,6,03 Product detail,200,OK,E2E Users 1-25,text,true,,451,341,12,12,http://127.0.0.1:3010/api/products/1,6,0,0
+1788159717064,3,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,339,12,12,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159717144,3,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,339,12,12,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159717225,14,05 Checkout,200,OK,E2E Users 1-24,text,true,,315,426,12,12,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159717252,3,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159717348,13,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,428,11,11,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159717496,18,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,442,11,11,http://127.0.0.1:3010/api/checkout,18,0,0
+1788159717559,15,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,425,11,11,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159717629,2,02 Products search,200,OK,E2E Users 1-26,text,true,,267,348,11,11,http://127.0.0.1:3010/api/products?search=dep,2,0,0
+1788159717748,1,02 Products search,200,OK,E2E Users 1-29,text,true,,267,348,11,11,http://127.0.0.1:3010/api/products?search=non,1,0,0
+1788159717850,1,02 Products search,200,OK,E2E Users 1-32,text,true,,267,348,11,11,http://127.0.0.1:3010/api/products?search=vay,1,0,0
+1788159717979,1,02 Products search,200,OK,E2E Users 1-35,text,true,,267,349,11,11,http://127.0.0.1:3010/api/products?search=quan,1,0,0
+1788159717981,2,04 Add cart,200,OK,E2E Users 1-25,text,true,,294,406,11,11,http://127.0.0.1:3010/api/cart,2,0,0
+1788159718068,2,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,404,11,11,http://127.0.0.1:3010/api/cart,2,0,0
+1788159718147,4,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,404,11,11,http://127.0.0.1:3010/api/cart,4,0,0
+1788159718257,3,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,404,11,11,http://127.0.0.1:3010/api/cart,3,0,0
+1788159718362,4,01 Login,200,OK,E2E Users 1-27,text,true,,643,409,11,11,http://127.0.0.1:3010/api/login,4,0,0
+1788159718515,2,01 Login,200,OK,E2E Users 1-30,text,true,,643,409,11,11,http://127.0.0.1:3010/api/login,2,0,0
+1788159718576,4,01 Login,200,OK,E2E Users 1-33,text,true,,643,409,11,11,http://127.0.0.1:3010/api/login,4,0,0
+1788159718633,3,03 Product detail,200,OK,E2E Users 1-26,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159718751,3,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159718852,3,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159718982,2,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,339,11,11,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159718984,14,05 Checkout,200,OK,E2E Users 1-25,text,true,,315,428,11,11,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159719071,10,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,424,10,10,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159719153,13,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,420,10,10,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159719260,9,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,427,10,10,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159719367,1,02 Products search,200,OK,E2E Users 1-27,text,true,,267,351,10,10,http://127.0.0.1:3010/api/products?search=balo,1,0,0
+1788159719518,2,02 Products search,200,OK,E2E Users 1-30,text,true,,267,351,10,10,http://127.0.0.1:3010/api/products?search=dong,2,0,0
+1788159719581,2,02 Products search,200,OK,E2E Users 1-33,text,true,,267,351,10,10,http://127.0.0.1:3010/api/products?search=kinh,2,0,0
+1788159719637,1,04 Add cart,200,OK,E2E Users 1-26,text,true,,294,404,10,10,http://127.0.0.1:3010/api/cart,1,0,0
+1788159719756,4,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,404,10,10,http://127.0.0.1:3010/api/cart,4,0,0
+1788159719857,6,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,404,10,10,http://127.0.0.1:3010/api/cart,6,0,0
+1788159719985,9,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,404,10,10,http://127.0.0.1:3010/api/cart,9,0,0
+1788159720083,4,01 Login,200,OK,E2E Users 1-28,text,true,,643,407,10,10,http://127.0.0.1:3010/api/login,4,0,0
+1788159720167,5,01 Login,200,OK,E2E Users 1-31,text,true,,643,407,10,10,http://127.0.0.1:3010/api/login,5,0,0
+1788159720270,6,01 Login,200,OK,E2E Users 1-34,text,true,,643,407,10,10,http://127.0.0.1:3010/api/login,6,0,0
+1788159720369,1,03 Product detail,200,OK,E2E Users 1-27,text,true,,451,341,10,10,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159720521,1,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,341,10,10,http://127.0.0.1:3010/api/products/1,1,0,0
+1788159720584,2,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,10,10,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159720641,9,05 Checkout,200,OK,E2E Users 1-26,text,true,,315,425,10,10,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159720761,9,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,423,9,9,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159720865,16,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,420,9,9,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159720995,13,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,426,9,9,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159721089,3,02 Products search,200,OK,E2E Users 1-28,text,true,,267,352,9,9,http://127.0.0.1:3010/api/products?search=watch,3,0,0
+1788159721173,3,02 Products search,200,OK,E2E Users 1-31,text,true,,453,352,9,9,http://127.0.0.1:3010/api/products?search=phone,3,0,0
+1788159721277,2,02 Products search,200,OK,E2E Users 1-34,text,true,,267,353,9,9,http://127.0.0.1:3010/api/products?search=laptop,2,0,0
+1788159721372,5,04 Add cart,200,OK,E2E Users 1-27,text,true,,294,406,9,9,http://127.0.0.1:3010/api/cart,5,0,0
+1788159721525,2,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,406,9,9,http://127.0.0.1:3010/api/cart,2,0,0
+1788159721588,5,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,9,9,http://127.0.0.1:3010/api/cart,5,0,0
+1788159721771,7,01 Login,200,OK,E2E Users 1-29,text,true,,643,407,9,9,http://127.0.0.1:3010/api/login,7,0,0
+1788159721882,3,01 Login,200,OK,E2E Users 1-32,text,true,,643,407,9,9,http://127.0.0.1:3010/api/login,3,0,0
+1788159722012,3,01 Login,200,OK,E2E Users 1-35,text,true,,640,407,9,9,http://127.0.0.1:3010/api/login,3,0,0
+1788159722094,3,03 Product detail,200,OK,E2E Users 1-28,text,true,,451,341,9,9,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159722178,2,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,341,9,9,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159722280,4,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,341,9,9,http://127.0.0.1:3010/api/products/1,4,0,0
+1788159722379,19,05 Checkout,200,OK,E2E Users 1-27,text,true,,315,426,9,9,http://127.0.0.1:3010/api/checkout,19,0,0
+1788159722528,10,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,433,8,8,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159722594,17,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,427,8,8,http://127.0.0.1:3010/api/checkout,17,0,0
+1788159722779,5,02 Products search,200,OK,E2E Users 1-29,text,true,,267,353,8,8,http://127.0.0.1:3010/api/products?search=tablet,5,0,0
+1788159722885,2,02 Products search,200,OK,E2E Users 1-32,text,true,,267,351,8,8,http://127.0.0.1:3010/api/products?search=sach,2,0,0
+1788159723017,11,02 Products search,200,OK,E2E Users 1-35,text,true,,267,347,8,8,http://127.0.0.1:3010/api/products?search=ao,11,0,0
+1788159723099,4,04 Add cart,200,OK,E2E Users 1-28,text,true,,294,406,8,8,http://127.0.0.1:3010/api/cart,4,0,0
+1788159723183,4,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,406,8,8,http://127.0.0.1:3010/api/cart,4,0,0
+1788159723284,4,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,406,8,8,http://127.0.0.1:3010/api/cart,4,0,0
+1788159723539,2,01 Login,200,OK,E2E Users 1-30,text,true,,640,409,8,8,http://127.0.0.1:3010/api/login,2,0,0
+1788159723612,6,01 Login,200,OK,E2E Users 1-33,text,true,,640,409,8,8,http://127.0.0.1:3010/api/login,6,0,0
+1788159723786,3,03 Product detail,200,OK,E2E Users 1-29,text,true,,451,341,8,8,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159723889,3,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,341,8,8,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159724030,3,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,339,8,8,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159724104,14,05 Checkout,200,OK,E2E Users 1-28,text,true,,315,426,8,8,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159724188,12,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,428,7,7,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159724291,13,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,442,7,7,http://127.0.0.1:3010/api/checkout,13,0,0
+1788159724542,2,02 Products search,200,OK,E2E Users 1-30,text,true,,267,349,7,7,http://127.0.0.1:3010/api/products?search=giay,2,0,0
+1788159724619,2,02 Products search,200,OK,E2E Users 1-33,text,true,,267,348,7,7,http://127.0.0.1:3010/api/products?search=tui,2,0,0
+1788159724789,2,04 Add cart,200,OK,E2E Users 1-29,text,true,,294,406,7,7,http://127.0.0.1:3010/api/cart,2,0,0
+1788159724893,4,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,406,7,7,http://127.0.0.1:3010/api/cart,4,0,0
+1788159725033,3,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,404,7,7,http://127.0.0.1:3010/api/cart,3,0,0
+1788159725201,6,01 Login,200,OK,E2E Users 1-31,text,true,,640,409,7,7,http://127.0.0.1:3010/api/login,6,0,0
+1788159725305,5,01 Login,200,OK,E2E Users 1-34,text,true,,640,409,7,7,http://127.0.0.1:3010/api/login,5,0,0
+1788159725545,5,03 Product detail,200,OK,E2E Users 1-30,text,true,,451,339,7,7,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159725623,2,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,339,7,7,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159725793,14,05 Checkout,200,OK,E2E Users 1-29,text,true,,315,425,7,7,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159725898,9,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,428,6,6,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159726036,12,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,424,6,6,http://127.0.0.1:3010/api/checkout,12,0,0
+1788159726208,2,02 Products search,200,OK,E2E Users 1-31,text,true,,267,348,6,6,http://127.0.0.1:3010/api/products?search=dep,2,0,0
+1788159726313,2,02 Products search,200,OK,E2E Users 1-34,text,true,,267,348,6,6,http://127.0.0.1:3010/api/products?search=non,2,0,0
+1788159726552,3,04 Add cart,200,OK,E2E Users 1-30,text,true,,294,404,6,6,http://127.0.0.1:3010/api/cart,3,0,0
+1788159726626,6,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,404,6,6,http://127.0.0.1:3010/api/cart,6,0,0
+1788159726907,6,01 Login,200,OK,E2E Users 1-32,text,true,,640,409,6,6,http://127.0.0.1:3010/api/login,6,0,0
+1788159727050,5,01 Login,200,OK,E2E Users 1-35,text,true,,640,407,6,6,http://127.0.0.1:3010/api/login,4,0,0
+1788159727212,2,03 Product detail,200,OK,E2E Users 1-31,text,true,,451,339,6,6,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159727317,2,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,339,6,6,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159727556,9,05 Checkout,200,OK,E2E Users 1-30,text,true,,315,420,6,6,http://127.0.0.1:3010/api/checkout,9,0,0
+1788159727635,14,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,427,5,5,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159727914,3,02 Products search,200,OK,E2E Users 1-32,text,true,,267,348,5,5,http://127.0.0.1:3010/api/products?search=vay,3,0,0
+1788159728055,3,02 Products search,200,OK,E2E Users 1-35,text,true,,267,349,5,5,http://127.0.0.1:3010/api/products?search=quan,3,0,0
+1788159728215,3,04 Add cart,200,OK,E2E Users 1-31,text,true,,294,404,5,5,http://127.0.0.1:3010/api/cart,3,0,0
+1788159728320,4,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,404,5,5,http://127.0.0.1:3010/api/cart,4,0,0
+1788159728650,4,01 Login,200,OK,E2E Users 1-33,text,true,,643,407,5,5,http://127.0.0.1:3010/api/login,4,0,0
+1788159728920,2,03 Product detail,200,OK,E2E Users 1-32,text,true,,451,339,5,5,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159729061,3,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,339,5,5,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159729220,16,05 Checkout,200,OK,E2E Users 1-31,text,true,,315,425,5,5,http://127.0.0.1:3010/api/checkout,16,0,0
+1788159729326,10,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,423,4,4,http://127.0.0.1:3010/api/checkout,10,0,0
+1788159729656,1,02 Products search,200,OK,E2E Users 1-33,text,true,,267,351,4,4,http://127.0.0.1:3010/api/products?search=balo,1,0,0
+1788159729922,5,04 Add cart,200,OK,E2E Users 1-32,text,true,,294,404,4,4,http://127.0.0.1:3010/api/cart,5,0,0
+1788159730066,3,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,404,4,4,http://127.0.0.1:3010/api/cart,3,0,0
+1788159730337,3,01 Login,200,OK,E2E Users 1-34,text,true,,643,407,4,4,http://127.0.0.1:3010/api/login,3,0,0
+1788159730658,3,03 Product detail,200,OK,E2E Users 1-33,text,true,,451,341,4,4,http://127.0.0.1:3010/api/products/1,3,0,0
+1788159730928,15,05 Checkout,200,OK,E2E Users 1-32,text,true,,315,420,4,4,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159731071,14,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,426,3,3,http://127.0.0.1:3010/api/checkout,14,0,0
+1788159731341,3,02 Products search,200,OK,E2E Users 1-34,text,true,,267,351,3,3,http://127.0.0.1:3010/api/products?search=dong,3,0,0
+1788159731661,4,04 Add cart,200,OK,E2E Users 1-33,text,true,,294,406,3,3,http://127.0.0.1:3010/api/cart,4,0,0
+1788159732086,4,01 Login,200,OK,E2E Users 1-35,text,true,,643,407,3,3,http://127.0.0.1:3010/api/login,4,0,0
+1788159732345,2,03 Product detail,200,OK,E2E Users 1-34,text,true,,451,341,3,3,http://127.0.0.1:3010/api/products/1,2,0,0
+1788159732666,15,05 Checkout,200,OK,E2E Users 1-33,text,true,,315,426,3,3,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159733092,3,02 Products search,200,OK,E2E Users 1-35,text,true,,267,351,2,2,http://127.0.0.1:3010/api/products?search=kinh,3,0,0
+1788159733348,5,04 Add cart,200,OK,E2E Users 1-34,text,true,,294,406,2,2,http://127.0.0.1:3010/api/cart,5,0,0
+1788159734096,5,03 Product detail,200,OK,E2E Users 1-35,text,true,,451,341,2,2,http://127.0.0.1:3010/api/products/1,5,0,0
+1788159734352,15,05 Checkout,200,OK,E2E Users 1-34,text,true,,315,433,2,2,http://127.0.0.1:3010/api/checkout,15,0,0
+1788159735102,3,04 Add cart,200,OK,E2E Users 1-35,text,true,,294,406,1,1,http://127.0.0.1:3010/api/cart,3,0,0
+1788159736107,18,05 Checkout,200,OK,E2E Users 1-35,text,true,,315,427,1,1,http://127.0.0.1:3010/api/checkout,18,0,0
