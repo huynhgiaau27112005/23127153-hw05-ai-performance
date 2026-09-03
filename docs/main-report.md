@@ -3,7 +3,9 @@
 **Student:** Huỳnh Gia Âu | **MSSV:** 23127153  
 **Course:** Software Testing — HW05 Performance Testing with AI  
 **Date:** 2026-08-30  
-**SUT:** [EShop API](https://github.com/ttbhanh/eshop-sut) @ `http://127.0.0.1:3010`
+**SUT:** [EShop API](https://github.com/ttbhanh/eshop-sut) @ `http://127.0.0.1:3010`  
+**Public GitHub:** https://github.com/huynhgiaau27112005/23127153-hw05-ai-performance  
+**Demo video:** STUDENT-TODO (script: `Demo_Recording_Script.md`)
 
 **Declaration:** AI-assisted workflow; see `docs/ai-audit.md`.
 
@@ -70,6 +72,14 @@ Metrics from `results/summary.json` (after `scripts/rerun_clean.py`):
 
 See `results/*/html-report/index.html` for JMeter dashboards.
 
+Hardware evidence: `docs/hardware/task-manager.png`, `docs/hardware/desktop-resource-monitor.png`, `docs/hardware/dxdiag-report.txt`.
+
+GitHub Issues: [#1 SQLite write contention](https://github.com/huynhgiaau27112005/23127153-hw05-ai-performance/issues/1), [#2 login lockout under load](https://github.com/huynhgiaau27112005/23127153-hw05-ai-performance/issues/2).
+
+Hardware evidence: `docs/hardware/task-manager.png`, `docs/hardware/desktop-resource-monitor.png`, `docs/hardware/dxdiag-report.txt`.
+
+GitHub Issues: [#1 SQLite write contention](https://github.com/huynhgiaau27112005/23127153-hw05-ai-performance/issues/1), [#2 login lockout under load](https://github.com/huynhgiaau27112005/23127153-hw05-ai-performance/issues/2).
+
 ## 6. Task 2 — AI Misinterpretation Hunt
 
 | # | AI claim (wrong) | Evidence from JTL | Correct interpretation |
@@ -105,5 +115,6 @@ JMeter plans satisfy HW05 naming, CSV data-driven design, three listener types, 
 - [x] CSV users + seed script
 - [x] JTL + HTML reports per scenario
 - [x] AI audit, critique, skill, README
-- [ ] Demo video ≥ 6 min (student)
-- [ ] Hardware monitor screenshots (student)
+- [x] Hardware monitor + dxdiag (`docs/hardware/`)
+- [x] Public GitHub + commit log
+- [ ] Demo video ≥ 6 min (student — YouTube unlisted)
