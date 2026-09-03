@@ -1,0 +1,71 @@
+﻿
+Host Name:                     DESKTOP-GMMAVSO
+OS Name:                       Microsoft Windows 11 Home Single Language
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              Dell
+Registered Organization:       N/A
+Product ID:                    00342-42625-97560-AAOEM
+Original Install Date:         28/2/2025, 7:20:19 PM
+System Boot Time:              30/8/2026, 9:49:33 PM
+System Manufacturer:           Dell Inc.
+System Model:                  Vostro 5620
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~1700 Mhz
+BIOS Version:                  Dell Inc. 1.34.0, 27/1/2026
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:         16,069 MB
+Available Physical Memory:     577 MB
+Virtual Memory: Max Size:      26,309 MB
+Virtual Memory: Available:     2,328 MB
+Virtual Memory: In Use:        23,981 MB
+Page File Location(s):         E:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\DESKTOP-GMMAVSO
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5120708
+                               [02]: KB5054156
+                               [03]: KB5121003
+                               [04]: KB5123304
+Network Card(s):               3 NIC(s) Installed.
+                               [01]: Intel(R) Wi-Fi 6 AX201 160MHz
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.1.1
+                                     IP address(es)
+                                     [01]: 192.168.1.22
+                                     [02]: fe80::8f01:a6b0:d736:8fc7
+                                     [03]: 2001:ee0:4c9f:1860:d8e3:e064:be5b:716f
+                                     [04]: 2001:ee0:4c9f:1860:ca9a:de78:416f:e7c8
+                               [02]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet 2
+                                     Status:          Media disconnected
+                               [03]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection 2
+                                     Status:          Media disconnected
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                                     APIC Virtualization
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.

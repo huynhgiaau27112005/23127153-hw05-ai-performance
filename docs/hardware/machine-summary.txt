@@ -1,0 +1,27 @@
+﻿HW05 Machine Summary — 23127153
+Generated: 2026-09-03 19:15:22
+
+whoami: desktop-gmmavso\dell
+hostname: DESKTOP-GMMAVSO
+
+=== Win32_Processor ===
+Name: 12th Gen Intel(R) Core(TM) i5-1240P
+Manufacturer: GenuineIntel
+NumberOfCores: 12
+NumberOfLogicalProcessors: 16
+MaxClockSpeedMHz: 1700
+
+=== Win32_PhysicalMemory ===
+Modules: 2
+TotalCapacityGB: 16
+  Slot=DIMM 1 CapacityGB=8 SpeedMHz=3200 Manufacturer=80CE000080CE
+  Slot=DIMM 2 CapacityGB=8 SpeedMHz=3200 Manufacturer=80CE000080CE
+
+=== Win32_OperatingSystem ===
+Caption: Microsoft Windows 11 Home Single Language
+Version: 10.0.26200
+BuildNumber: 26200
+OSArchitecture: 64-bit
+TotalVisibleMemorySizeMB: 16068.74
+FreePhysicalMemoryMB: 588.09
+LastBootUpTime: 08/30/2026 21:49:33
