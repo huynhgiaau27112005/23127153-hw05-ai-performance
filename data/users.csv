@@ -1,0 +1,16 @@
+email,password,search_keyword,product_id,quantity,shipping_address
+perf01@eshop.test,Perf1234!,ao,1,1,123 Nguyen Hue Q1 HCM
+perf02@eshop.test,Perf1234!,giay,1,2,456 Le Loi Q3 HCM
+perf03@eshop.test,Perf1234!,tui,1,1,789 Tran Hung Dao Q5 HCM
+perf04@eshop.test,Perf1234!,dep,1,1,12 Hai Ba Trung Q1 HCM
+perf05@eshop.test,Perf1234!,non,1,1,34 Vo Van Tan Q3 HCM
+perf06@eshop.test,Perf1234!,vay,1,2,56 Pasteur Q1 HCM
+perf07@eshop.test,Perf1234!,quan,1,1,78 Dien Bien Phu Q3 HCM
+perf08@eshop.test,Perf1234!,balo,1,1,90 Ly Tu Trong Q1 HCM
+perf09@eshop.test,Perf1234!,dong,1,1,11 Cach Mang Thang 8 Q10 HCM
+perf10@eshop.test,Perf1234!,kinh,1,1,22 Pham Ngu Lao Q1 HCM
+perf11@eshop.test,Perf1234!,watch,1,1,33 Nguyen Trai Q5 HCM
+perf12@eshop.test,Perf1234!,phone,1,1,44 Truong Chinh Q12 HCM
+perf13@eshop.test,Perf1234!,laptop,1,1,55 Xo Viet Nghe Tinh Q Binh Thanh HCM
+perf14@eshop.test,Perf1234!,tablet,1,1,66 Vo Thi Sau Q3 HCM
+perf15@eshop.test,Perf1234!,sach,1,1,77 Ba Thang Hai Q10 HCM

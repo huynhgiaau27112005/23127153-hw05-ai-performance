@@ -1,0 +1,28 @@
+# Dependencies & secrets
+node_modules/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Logs
+*.log
+jmeter.log
+
+# Local databases
+database.sqlite
+*.sqlite
+*.db
+
+# OS / editor
+Thumbs.db
+.idea/
+.vscode/
+
+# Large binaries / toolkits
+*.exe
+*.msi
+*.zip
+*.7z
+apache-jmeter*/
+tools/
